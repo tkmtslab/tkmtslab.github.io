@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_2219-clone",
-    "currentPage": "page5.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 318,
+    "uniqCompNum": 355,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -333,7 +333,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Members",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -476,7 +476,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (English)",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -848,7 +848,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Publications",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -1031,7 +1031,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Japanese)",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -1593,6 +1593,36 @@
               "background-color": "#2e2e2e"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "卒業生のトピック",
+          "text": "リンク",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ダウンロード</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-9u"
         },
         {
           "_styles": {
@@ -2376,7 +2406,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -2660,7 +2690,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -3050,7 +3080,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6011.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3347,6 +3377,36 @@
               "background-color": "#2e2e2e"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ALUMNUS TOPICS",
+          "text": "Link to",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/tokimatsu-labgraduates.pptx\" data-toolbar=\"-mbrBtnMove\">click to download</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-8v"
         },
         {
           "_styles": {
@@ -4169,7 +4229,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -4456,7 +4516,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -4746,7 +4806,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -5032,7 +5092,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -5643,6 +5703,36 @@
               "background-color": "#2e2e2e"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TOPIK PARA ALUMNI",
+          "text": "Unduh",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">unduh disini</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-8u"
         },
         {
           "_styles": {
@@ -8400,7 +8490,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (Arabic)",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -8600,7 +8690,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (Japanese)",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
