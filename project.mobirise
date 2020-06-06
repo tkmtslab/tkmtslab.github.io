@@ -1057,7 +1057,7 @@
           },
           "title": "卒業生のトピック",
           "text": "リンク",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/graduates-JAPANESE.pptx\" data-toolbar=\"-mbrBtnMove\">卒業生</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page21.html\" data-toolbar=\"-mbrBtnMove\">卒業生</a>",
           "_tags": [
             "Theme"
           ],
@@ -3164,7 +3164,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6015.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5455,7 +5455,7 @@
           },
           "title": "TOPIK PARA ALUMNI",
           "text": "Unduh",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Alumni</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Alumni</a> ",
           "_tags": [
             "Theme"
           ],
