@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_2219-clone",
-    "currentPage": "page7.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 371,
+    "uniqCompNum": 406,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -333,7 +333,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Members",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -476,7 +476,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (English)",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -848,7 +848,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Publications",
-        "order": 12
+        "order": 10
       },
       "components": [
         {
@@ -1031,7 +1031,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Japanese)",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
@@ -1057,7 +1057,7 @@
           },
           "title": "卒業生のトピック",
           "text": "リンク",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ダウンロード</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/graduates-JAPANESE.pptx\" data-toolbar=\"-mbrBtnMove\">卒業生</a>",
           "_tags": [
             "Theme"
           ],
@@ -2307,7 +2307,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Graduates",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -2744,7 +2744,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -2770,7 +2770,7 @@
           },
           "title": "ALUMNUS TOPICS",
           "text": "Link to",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/tokimatsu-labgraduates.pptx\" data-toolbar=\"-mbrBtnMove\">click to download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">GRADUATES PAGE</a> ",
           "_tags": [
             "Theme"
           ],
@@ -3164,7 +3164,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6011.jpg",
+              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6012.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4283,7 +4283,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -5429,7 +5429,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Indonesia)",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -5455,7 +5455,7 @@
           },
           "title": "TOPIK PARA ALUMNI",
           "text": "Unduh",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">unduh disini</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Alumni</a> ",
           "_tags": [
             "Theme"
           ],
@@ -6123,7 +6123,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Page 14",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -6483,7 +6483,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (arabic)",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -7147,7 +7147,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Persian)",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -7831,7 +7831,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Chinese)",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -8448,7 +8448,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Curricuculum Vitae",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -8544,7 +8544,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (Arabic)",
-        "order": 10
+        "order": 8
       },
       "components": [
         {
@@ -8744,7 +8744,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (Japanese)",
-        "order": 11
+        "order": 9
       },
       "components": [
         {
@@ -8940,7 +8940,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Graduates (Japanese)",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
