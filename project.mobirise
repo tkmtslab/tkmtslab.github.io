@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_2219-clone",
-    "currentPage": "page8.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 355,
+    "uniqCompNum": 371,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -75,7 +75,7 @@
           },
           "title": "TOKIMATSU LABORATORY",
           "text": "<br>Dept. Transdisciplinary Science and Engineering<br><br>TOKYO INSTITUTE OF TECHNOLOGY<br>Suzukakedai Campus\n<br> 〒226-0026　G5-10, 4259, Nagatsutacho, Midori, Yokohama, Kanagawa, Japan&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-8\" data-toolbar=\"-mbrBtnMove\">SUPERVISOR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">RESEARCH</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html#features1-j\" data-toolbar=\"-mbrBtnMove\">MEMBERS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page2.html#msg-box8-70\" data-toolbar=\"-mbrBtnMove\">ACTIVITIES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">PUBLICATIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page8.html#features1-1o\" data-toolbar=\"-mbrBtnMove\">ALUMNUS</a>      ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-8\" data-toolbar=\"-mbrBtnMove\">SUPERVISOR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">RESEARCH</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html#features1-j\" data-toolbar=\"-mbrBtnMove\">MEMBERS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page2.html#msg-box8-70\" data-toolbar=\"-mbrBtnMove\">ACTIVITIES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">PUBLICATIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page8.html#features1-1o\" data-toolbar=\"-mbrBtnMove\">ALUMNUS TESTIMONIALS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">GRADUATES</a>      ",
           "_tags": [
             "Theme"
           ],
@@ -333,7 +333,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Members",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -476,7 +476,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (English)",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -848,7 +848,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Publications",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -1031,9 +1031,39 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Japanese)",
-        "order": 12
+        "order": 14
       },
       "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "卒業生のトピック",
+          "text": "リンク",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ダウンロード</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-9u"
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -1593,36 +1623,6 @@
               "background-color": "#2e2e2e"
             }
           }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "卒業生のトピック",
-          "text": "リンク",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ダウンロード</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-9u"
         },
         {
           "_styles": {
@@ -2306,8 +2306,8 @@
     "page6.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
-        "title": "Page 6",
-        "order": 20
+        "title": "Graduates",
+        "order": 21
       },
       "components": [
         {
@@ -2396,6 +2396,60 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">東京工業大学</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-w"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1slidegraduates-712x534.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-9w"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2slidegraduates-705x441.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-9x"
         }
       ]
     },
@@ -2431,7 +2485,7 @@
           },
           "title": "TOKIMATSU LABORATORY",
           "text": "<br>融合理工学系<br><br>TOKYO INSTITUTE OF TECHNOLOGY<br>Suzukakedai Campus\n<br> 〒226-0026　G5-10, 4259, Nagatsutacho, Midori, Yokohama, Kanagawa, Japan&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#header2-z\" data-toolbar=\"-mbrBtnMove\">指導教員</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#msg-box4-10\" data-toolbar=\"-mbrBtnMove\">研究内容</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html#features1-j\" data-toolbar=\"-mbrBtnMove\">メンバー</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page20.html#msg-box8-76\" data-toolbar=\"-mbrBtnMove\">活躍</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">出版</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">卒業生</a>      ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#header2-z\" data-toolbar=\"-mbrBtnMove\">指導教員</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#msg-box4-10\" data-toolbar=\"-mbrBtnMove\">研究内容</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html#features1-j\" data-toolbar=\"-mbrBtnMove\">メンバー</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page20.html#msg-box8-76\" data-toolbar=\"-mbrBtnMove\">活躍</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">出版</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">卒業生の声</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page21.html\" data-toolbar=\"-mbrBtnMove\">卒業生</a>       ",
           "_tags": [
             "Theme"
           ],
@@ -2690,9 +2744,39 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus",
-        "order": 11
+        "order": 13
       },
       "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ALUMNUS TOPICS",
+          "text": "Link to",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/tokimatsu-labgraduates.pptx\" data-toolbar=\"-mbrBtnMove\">click to download</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-8v"
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -3377,36 +3461,6 @@
               "background-color": "#2e2e2e"
             }
           }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ALUMNUS TOPICS",
-          "text": "Link to",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/tokimatsu-labgraduates.pptx\" data-toolbar=\"-mbrBtnMove\">click to download</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-8v"
         },
         {
           "_styles": {
@@ -4229,7 +4283,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -5375,9 +5429,39 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Indonesia)",
-        "order": 16
+        "order": 17
       },
       "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TOPIK PARA ALUMNI",
+          "text": "Unduh",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">unduh disini</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-8u"
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -5703,36 +5787,6 @@
               "background-color": "#2e2e2e"
             }
           }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "TOPIK PARA ALUMNI",
-          "text": "Unduh",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">unduh disini</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-8u"
         },
         {
           "_styles": {
@@ -6069,7 +6123,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Page 14",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -6429,7 +6483,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (arabic)",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -7093,7 +7147,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Persian)",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -7777,7 +7831,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Chinese)",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -8394,7 +8448,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Curricuculum Vitae",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -8490,7 +8544,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (Arabic)",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -8690,7 +8744,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Activities (Japanese)",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -8879,6 +8933,156 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-7l"
+        }
+      ]
+    },
+    "page21.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "Graduates (Japanese)",
+        "order": 22
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/as-2674582906183831440778433825-l-129x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">東京工業大学</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-9y"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3slidegraduates-706x532.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-9z"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2slidegraduates-705x441.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-a0"
         }
       ]
     }
