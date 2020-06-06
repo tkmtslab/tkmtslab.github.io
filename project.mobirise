@@ -3164,7 +3164,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/takeda-san-600x6014.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
