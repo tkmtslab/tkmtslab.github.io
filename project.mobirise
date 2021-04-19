@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_2219-clone",
-    "currentPage": "page8.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 342,
+    "uniqCompNum": 358,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -110,7 +110,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -355,7 +355,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -467,7 +467,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b><i>Grade, Name, Research Topic \n</i></b></blockquote><blockquote><b><i>Graduates 2020:\n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>D3 Norfadhilah Hamzah (from Malaysia) \n</i></b></blockquote><blockquote><b><i>Topic: Feasibility Study on Solid Fuel Production from Hydrothermal treatment of Biomass and Waste for Power Generation in Malaysia \n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>D3 Arif Darmawan (Indonesia) \n</i></b></blockquote><blockquote><b><i>Topic: Energy System and Analysis of Biomass Utilization \n</i></b></blockquote><blockquote><b><i>Award gained: Best Poster Award, The 8th International conference on Applied Energy \n</i></b></blockquote><blockquote><b><i>\"Enhanced integration of hydrothermal liquefaction, gsification and combined cycle : Modeling and simulation using ASPEN pus\" \n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>D3 Khalid Alshoud (Saudi Arabia) \n</i></b></blockquote><blockquote><b><i>Topic: Diffusion Policy Assessment of Solar Energy \n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>Current Student 2020\n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>Doctoral Student:\n</i></b></blockquote><blockquote><b><i>- Yutaro Shimada (Japan)\n</i></b></blockquote><blockquote><b><i>\"Study on Optimum Operation Condition of Ground Source Heat Pump in Bangkok, Thailand based on the Field Experiment\"\n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>Master's Student: \n</i></b></blockquote><blockquote><b><i>- Amin (Egypt)\n</i></b></blockquote><blockquote><b><i>\"Fuel Poverty Analysis\n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>- Rivaldi Madyatama (Indonesia)\n</i></b></blockquote><blockquote><b><i>\"Life Cycle Analysis with Feasibility Studies of Waste Management and Waste to Energy in Jakarta\"\n</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>- Aulia Shabrina (Indonesia)\n</i></b></blockquote><blockquote><b><i>\"Techno-Economic Assessment of Hydrochar Plant from Palm Oil Empty Fruit Bunches in Indonesia\"</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>-Linux Farungsan (Thailand)</i></b></blockquote><blockquote><br></blockquote>",
+          "text": "<blockquote><b><i>Grade, Name, Research Topic</i></b></blockquote><blockquote><b><i>Current Student 2021</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>Doctoral Student:\n</i></b></blockquote><blockquote><p>Name: Yutaro Shimada\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Economic and environmental assessment of ground source heat pump in Bangkok, Thailand</span></p><p><br></p><p>Name: Amin Nazarahari</p><p><span style=\"font-size: 1.09rem;\">Country: Iran</span></p><p><span style=\"font-size: 1.07rem;\">Title of research: Energy poverty in developed countries - case of Japan while assessing the role of consumption attitudes and behaviors</span></p></blockquote><blockquote><p><i><b><br></b></i></p><p><i><b>Master's Student:</b></i></p></blockquote><blockquote><p>Name: Rivaldi Madyatama</p><p>Country: Indonesia</p><p>Title of research: Life Cycle Assessment of Proper Waste Management in Jakarta, Indonesia</p><p><br></p><p>Name: Aulia Shabrina\n</p><p><span style=\"font-size: 1.09rem;\">Country: Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Techno-Economic Assessment on Bioethanol Plant from Oil Palm Frond in Indonesia</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Linux Farungsang\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Thailand\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Assessment of Rooftop Solar Photovoltaic Potential based on Machine Learning and GIS Spatial Analysis in Bangkok, Thailand</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Mako Mizuno\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Japan\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Study of cooling systems by snow storage in Niigata, Japan: lifecycle basis analysis</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\"><b><i>Bachelor Student:</i></b></span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Rino Hirose\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Japan\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: TBA</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: \n</span><span style=\"font-size: 1.09rem;\">Saksucha Submakudom</span></p><p><span style=\"font-size: 1.09rem;\">\n</span><span style=\"font-size: 1.09rem;\">Country: Thailand</span></p><p><span style=\"font-size: 1.09rem;\">\n</span><span style=\"font-size: 1.09rem;\">Title of research: TBA</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\"><b><i>Research Visitor:</i></b></span></p><p><span style=\"font-size: 1.09rem;\"><br>Name: Khalid Alrashoud\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Saudi Arabia\n</span></p><p><span style=\"font-size: 1.09rem;\">Status: Visiting Fellow\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research:  Transfer of Environmentally Sound Technologies (ESTs) to Saudi Arabi</span></p><p><span style=\"font-size: 1.09rem;\"><br></span><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -498,7 +498,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -927,7 +927,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1110,7 +1110,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1590,18 +1590,24 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tahani-3-392x456.jpeg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/youssef-elkhayat-2-512x512.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -1626,10 +1632,10 @@
           "title2": "Kengo Takeda",
           "subtitle2": "",
           "caption2": "",
-          "title3": "",
+          "title3": "Tahani Elbondira",
           "subtitle3": "",
           "caption3": "",
-          "title4": "",
+          "title4": "Youssef Elkhayat",
           "subtitle4": "",
           "caption4": "",
           "title5": "Trendy Website Blocks",
@@ -1640,6 +1646,125 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page5.html#msg-box8-8f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">学習者の声</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page5.html#msg-box8-8h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">学習者の声</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page5.html#msg-box8-9q\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">学習者の声</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html#msg-box8-9s\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">学習者の声</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-8k",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/news-25978-5-350x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/arif-darmawan-4-512x512.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/105-1050421-blank-avatar-female-png-transparent-png-267x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/105-1050421-blank-avatar-female-png-transparent-png-267x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Amin Nazarahari",
+          "subtitle1": "",
+          "caption1": "",
+          "title2": "Arif Darmawan",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "",
+          "subtitle3": "",
+          "caption3": "-",
+          "title4": "",
+          "subtitle4": "",
+          "caption4": "-",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page5.html#msg-box8-9u\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">学習者の声</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page5.html#msg-box8-9w\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">学習者の声</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1648,7 +1773,7 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-8k",
+          "_anchor": "features1-9p",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
@@ -2331,6 +2456,194 @@
           ],
           "_name": "content2",
           "_anchor": "content2-8i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tahani Ahmed Elbondira",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>エジプト日本科学技術大学の博士課程交換留学生として、時松先生研究室に9ヶ月間入社しました。研究室に加わり、時松教授の監修のもと、研究を発展させるだけでなく、将来的に指導教官として成功する方法を個人的に学んだことは幸運だったと思います。</p><p><br></p><p>\n</p><p>\n</p><p>私の研究分野は、時松先生の研究対象とは直接関係のない都市の緑地と都市部の熱的快適性に関するものですが、彼は私の滞在中、そして交換期間が終了した後も、いくつかの可能なサポートを提供してくれました。方法。第一に、他の研究室とは異なり、時松先生は研究室での研究の焦点とは直接関係がないにもかかわらず、私の選択したトピックに取り組む自由を与えてくれました。さらに、時松先生は、私の研究の直接の分野の教授である彼の同僚を私たちの会議に招待し、より経験豊富なフィードバックを求めました。また、時松先生は、技術や設備のサポートの面で、かなりの資金で奨学金を超えた場合でも、必要なソフトウェアで私の研究を惜しみなくサポートしてくれました。全体として、トキムタス先生は、研究者が最も必要としている最善の方法で研究が行われるように、あらゆる種類のサポートと支援を提供すると思います。しかし同時に、時松先生は、あなたが自分のトピックに関する知識とスキルを習得できる独立した研究者になることを奨励し、適切な時期に学術的支援を提供します。言い換えれば、研究室の環境はあなたがあなたの将来の研究キャリアに利益をもたらす成功した独立した研究者になることを奨励するでしょう。</p><p><br></p><p>\n</p><p> \n</p><p>研究室では、社会環境と支援はそれほど重要ではありませんでした。ラボには世界のさまざまな地域からの学生がいて、活気に満ちた興味深い環境になっています。また、時松教授は、研究知識の交換だけでなく、特に日本に到着した最初の期間に、日本への定住の段階を促進するための社会的支援（留学生向け）を奨励しています。さらに、Covid-19のパンデミックの間、時松先生からの絶え間ない支援と、ラボメンバーの心身の健康に関する情報の毎週の交換があり、すべてのメンバーがラボメンバーに安心感と安心感を与える問題がないことを確認しました。そのようなストレスの多い時期に私たちが働くのを助けた精神的安定。時松先生研究室にいらっしゃることを心から嬉しく思います。ポスドク研究のために日本を訪れる機会があれば、いつでもまた研究室に参加したいと思っています。時松先生の親切で絶え間ないサポートと、研究室の仲間であるアミン・ナザラハリさんの非常に親切なメンターに感謝します。&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Youssef Elkhayat",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>エジプトからの留学生（E-JUSTプログラム）として、2019年9月から2020年7月までの10ヶ月以上、時松研究室に在籍しています。理学士と修士課程で形成された建築背景を持つ環境工学の博士課程の学生です。エジプトのタンタ大学で建築学の博士号を取得。博士号の研究では、エジプトのオフィスビルの高性能グレージングシステム（HPGS）の持続可能性を評価しています。時松教授は、建物のエネルギー、ライフサイクルアセスメント（LCA）、費用便益分析の分野で優れた経験を持っています。</p><p><br></p><p>\n</p><p>\n</p><p>時松研究室には、中国、タイ、韓国、マレーシア、インドネシア、イラン、サウジアラビア、エジプト、スウェーデン、そしてもちろん日本など、さまざまな国からの修士、博士、ポスドクの学生がいます。学際的な環境におけるこの文化的および科学的多様性は、私の経験を大いに高め、私の仕事を他の人と共有するのに役立ちました。すべてのラボメンバーはとても親切でフレンドリーです。日本での初日から、各留学生には、日本での生活で有名な時松研究室の同僚である家庭教師がいます。</p><p><br></p><p>\n</p><p>\n</p><p>時松教授は、定期的な会合や指導のための議論を通じて、学生たちが自由に研究できるように奨励しています。さらに、国内外の重要な会議に参加するための財政的支援。彼は、エネルギー、LCA、および費用便益の第1四半期のジャーナルに論文を発表した優れた経験があります。時松教授は、生徒の書いた作品を注意深く読み、各部分にコメントを付けて、修正を明確かつ簡単に行えるようにします。\n</p><p>\n</p><p>時松教授は、あらゆる行政手続きにおいて非常に役立ちます。管理上の問題を解決するための彼のいつもの迅速な対応と優れたコミュニケーションに本当に感謝しています。キャンパスでの研究が中断されたため、彼は学生と連絡を取り合い、研究作業の進捗状況を追跡するための優れたオンラインシステムを確立しました。定期的なセミナーは、ZOOMアプリケーションでオンラインで開催されました。個人的には時松先生はとてもフレンドリーで、安心して仕事をしてくれました。彼は人生の恋人であり、通常はユニークなレストランで彼の学生のためのパーティーを開催していますが、それに参加するにはお金を払う必要があります！</p><p><br></p><p>\n</p><p>\n</p><p>時松研究室では、学生が協力して家具の整理や未使用物の処分を行っています。今後の開発により、時松研究室はより多くのオフィスに広くなり、見晴らしが良く、快適な家具、新しいインテリアデザイン、ソフトウェア、PCなどの研究施設、そして来るべき学生のための測定ツールを備えています。不利な点の1つは、ラボのメンバー間で組織的なスポーツ活動や日本のユニークな場所への旅行がないことです。\n</p><p>\n</p><p>ときまつ教授は、研究室が東京の中心部から遠く離れていると考えているため、学生に毎日研究室への出席を強制することはありません。そのため、学生は東京の好きな場所にある宿泊施設を自由に選ぶことができます。また、ときまつ動物病院は、東京の中心部に近い大岡山キャンパスで、できれば時間を割いてくれます。</p><p><br></p><p>\n</p><p>\n</p><p>私は最近尊敬します、そして私は再び研究室に参加したいと思っています。時松教授と研究室の皆様のご多幸をお祈り申し上げます。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Amin Nazarahari",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>私にとって、この2。5年は私が予想していたよりもはるかに早く過ぎました。私は文部科学省の研究生として最初に入学し、6か月後に修士課程に入学しました。私の学士号は工学の分野ではなかったので、私は基準に追いつくのに非常に苦労しました。友達に1時間かかったタスクや課題は、私には1週間かかったかもしれません。必要な基本的な知識は、学士課程で教えられたからです。しかし、私には達成するという目標があり、そのために、私は自分の快適さを犠牲にして、自分の努力を最大化することをいとわなかった。</p><p><br></p><p>\n</p><p>このパスでは、私のラボメンバーが最高のサポートでした。優れた研究室メンバーを持ち、友情を築くことの重要性は、常に最大の相互利益につながることを実感しました。困難な作業に耐え、特定のリスクを回避する方法を学び、要件を満たしながらどのようなクラスを受講するかについて、ラボメンバーの経験から多くの恩恵を受けました。</p><p><br></p><p>\n</p><p>もちろん、時松先生の役割は私の成功にとって非常に重要でした。この成功の背後には、長時間、夜間および早朝の作業とディスカッションを伴う一連の多数の会議があります。私が今のところに至ったすべての助けに感謝しています。父親の姿からアドバイスを受けることはあなたの向上のためであると信じることが重要です。したがって、これらのアドバイスを受けることは、それが提供される方法に関係なく、あなたの長期的な利益のためである可能性が最も高いです。ですから、時松先生のご厚意とご厚意に感謝し、学問的にも社会的にも職業的にも育てていただきたいと思います。</p><p><br></p><p>\n</p><p>副次的なプログラムとして、東京工業大学の専門分野を超えたクラスやワークショップを提供する東京工業大学リーダーシップアカデミー（ToTAL）に入学し、学力と個人の能力を社会と結びつけるためのスキルの向上を目指しています。週末の多くは早朝から夜、平日の深夜まで過ごしましたが、さまざまなバックグラウンドや性格の学生とコミュニケーションをとることができ、とても嬉しく思います。このプログラムの最初の登録者。きっと博士課程でも続けていきます。</p><p><br></p><p>\n</p><p>他のプログラムと同じように、成功への道には多くの困難と困難があると私は信じています。特に、新しい学術環境を始めて慣れ、クラスに参加し、研究パスの決定を下し、論文や防衛を書くまでのすべての研究を行います。落ち込んだり、やる気がなくなったりする日がたくさんあります。単語が少ない非常に短いメールは、モチベーションを押しつぶしたり、モチベーションを即座に高めたりすることがあります。でも、卒業当日と学位取得後は、過ぎ去った前後の人の違いに気づき、努力する価値があったので、常にこの道を歩むことを忘れないでください。それ。&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARIF DARMAWAN",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>このラボに参加することは、私の人生における重要な経験の1つです。それは私の考え方、社会的相互作用、自信のレベルを変え、多くの改善がありました。私は2015年から修士号と博士号の両方で時松研究室に5年間滞在しました。2015年4月にインドネシアのバリ島から成田空港に日本に到着しました。その時、みんな（インドネシア人と日本人）がとても親切で、管理手続き（キャンパス、寮、市役所）の進め方、おいしい食べ物の見つけ方、そして日本の生活のすべてを教えてくれました。東京工業大学での最初の1年間は、とても楽になりました。ここでは、どんな場面でも助け合い、支え合うべき重要なポイントを学びます。\n</p><p><br></p><p>第二に、時松先生の監修のもと、この研究室のメンバーになれたのはとても幸運でした。私の研究についての指導、支援、助言を与えてくれ、取り残されないように常に私の進歩を気にかけてくれた彼に感謝したいと思います。時松先生は、この研究室で多くの開発の機会を与えてくれました。彼は常にラボメンバーに他の研究者と協力して私たちの研究の方向性を決定する自由と信頼を与えています。また、東京大学のアジズ先生と2番目のスーパーバイザーとしてコラボレーションする機会がありました。</p><p><br></p><p>\n</p><p>\n</p><p>研究に対する責任と強い意志を持つことは私たちにとって重要です。時松先生は私たちの目標達成をお手伝いします。彼はまた、私の研究中に多くの会議に出席し、私たちの分野の多くの研究者に会う機会を与えてくれました。この研究室で勉強している間、私はアジアやヨーロッパの多くの国に海外旅行しました。自分の研究を他の人とどのように伝えるかについての自信とスキルを高めることは重要な経験でした。</p><p><br></p><p>\n</p><p>\n</p><p>最後になりましたが、私の意見では、私たちのラボが長所または専門性を持っていることが重要です。それは私たちの研究の方向性に影響を与え、予算の割り当て（強力な統計分析ソフトウェアを備えたPC、エネルギーモデリングなど）を含む必要な資産の種類を含みます。また、他の研究者が私たちの専門知識を簡単に見つけてさらに協力できるようになります。この強いアイデンティティにより、このラボは優れた拡張と急速な発展を遂げることができると私は信じています。&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9x"
         }
       ]
     },
@@ -2356,7 +2669,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2462,7 +2775,7 @@
           },
           "title": "TOKIMATSU<br>LABORATORY",
           "text": "<br>融合理工学系<br><br>TOKYO INSTITUTE OF TECHNOLOGY<br>Suzukakedai Campus\n<br> 〒226-0026　G5-10, 4259, Nagatsutacho, Midori, Yokohama, Kanagawa, Japan&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#header2-z\" data-toolbar=\"-mbrBtnMove\">指導教員</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#msg-box4-10\" data-toolbar=\"-mbrBtnMove\">研究内容</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html#features1-j\" data-toolbar=\"-mbrBtnMove\">メンバー<br>と卒業生 </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page20.html#msg-box8-76\" data-toolbar=\"-mbrBtnMove\">活躍</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">出版</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">卒業生</a>      ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#header2-z\" data-toolbar=\"-mbrBtnMove\">指導教員</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page7.html#msg-box4-10\" data-toolbar=\"-mbrBtnMove\">研究内容</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">メンバー<br>と卒業生 </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page20.html#msg-box8-76\" data-toolbar=\"-mbrBtnMove\">活躍</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">出版</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">卒業生</a>      ",
           "_tags": [
             "Theme"
           ],
@@ -2493,7 +2806,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2739,7 +3052,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4643,7 +4956,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4931,7 +5244,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -5220,7 +5533,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -5509,7 +5822,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -5754,7 +6067,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6418,7 +6731,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6778,7 +7091,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -7533,7 +7846,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -8287,7 +8600,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -8890,6 +9203,53 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CURRENT STUDENT &amp; GRADUATES",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><b>Current Student 2021\n</b></p><p><br></p><p><b>Doctoral Student:\n</b></p><p><br></p><p>Name: Yutaro Shimada\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">Title of research: Economic and environmental assessment of ground source heat pump in Bangkok, Thailand&nbsp;</span></p><p>\n</p><p>Name: Amin Nazarahari\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Iran&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Energy poverty in developed countries - case of Japan while assessing the role of consumption attitudes and behaviors&nbsp;</span></p><p><br></p><p><b><i>Master's Student:</i></b></p><p><b><i><br></i></b>\n</p><p>\n</p><p>Name: Rivaldi Madyatama\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Indonesia&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Life Cycle Assessment of Proper Waste Management in Jakarta, Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"></span><br></p><p>Name: Aulia Shabrina\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Indonesia&nbsp;&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Techno-Economic Assessment on Bioethanol Plant from Oil Palm Frond in Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p>Name: Linux Farungsang\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Thailand&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Assessment of Rooftop Solar Photovoltaic Potential based on Machine Learning and GIS Spatial Analysis in Bangkok, Thailand&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p>Name: Mako Mizuno\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Study of cooling systems by snow storage in Niigata, Japan: lifecycle basis analysis&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p><b>Bachelor Student:</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p>\n<span style=\"font-size: 1.07rem;\">Name: Rino Hirose&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: TBA&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p>Name: Saksucha Submakudom\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Thailand&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: TBA&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p><i><b>Research Visitor:</b></i></p><p><i><b><br></b></i></p><p><i><b>\n</b></i></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p>Name: Khalid Alrashoud\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Saudi Arabia&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Status: Visiting Fellow&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Transfer of Environmentally Sound Technologies (ESTs) to Saudi Arabi&nbsp;</span></p><p>\n</p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9i"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -8904,7 +9264,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -9096,7 +9456,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -9296,7 +9656,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -9521,6 +9881,295 @@
               "text-align": "left"
             }
           }
+        }
+      ]
+    },
+    "page21.html": {
+      "settings": {
+        "title": "Tokimatsu Lab (Thai)",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/back011-1280x720.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "TOKIMATSU <br>LABORATORY",
+          "text": "<br>Dept. Transdisciplinary Science and Engineering<br><br>TOKYO INSTITUTE OF TECHNOLOGY<br>Suzukakedai Campus\n<br> 〒226-0026　G5-10, 4259, Nagatsutacho, Midori, Yokohama, Kanagawa, Japan&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-8\" data-toolbar=\"-mbrBtnMove\">หัวหน้าอาจารย์ในสาขาวิชา</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">งานวิจัย</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">สมาชิก</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page2.html#msg-box8-70\" data-toolbar=\"-mbrBtnMove\">กิจกรรม</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">สิ่งพิมพ์เผยแพร่</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page8.html#features1-1o\" data-toolbar=\"-mbrBtnMove\">ศิษย์เก่า</a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-9k"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/as-2674582906183831440778433825-l-129x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">東京工業大学</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-9l"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1920-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2019-1400x1050.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<i>KOJI TOKIMATSU</i>",
+          "text": "Associate Professor, Tokyo Institute of Technology, School of Environment and Society, Department of Transdisciplinary Science and Engineering\n<br>Speciality: Systematic engineering on earth resources, Environmental impact assesment and policy, applied economics<br><br>Contact:<br>Telephone: +81.45.924.5533&nbsp;<br>E-mail: tokimatsu.k.ac[at]m.titech.ac.jp<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://educ.titech.ac.jp/tse/news/2021_04/060525.html\" data-toolbar=\"-mbrBtnMove\">Introduction to Laboratories (JP Version) </a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-section-title I": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-9m"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/image-674x282.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Research area<br><br>\n<div><span style=\"font-weight: 400;\">ภารกิจหลักของเราคือการสนับสนุนสังคมโดยส่งเสริมงานวิจัย และศึกษาเกี่ยวกับความสัมพันธ์ระหว่างเทคโนโลยีและเศรษฐกิจ-สังคม</span></div><br><div><span style=\"font-weight: 400;\">เราแสวงหานัยยะสำคัญทางสังคมจากความเข้าใจในวิทยาศาสตร์และเทคโนโลยี องค์ประกอบที่สำคัญคือการส่งเสริมสังคมผ่านงานวิจัย ยิ่งไปกว่านั้น Tokyo Institute of Technology (Tokyo Tech) ยังมีจุดเด่น คือการเป็นหนึ่งในสถาบันวิจัยระดับโลก</span></div><br><div><span style=\"font-weight: 400;\">อย่างไรก็ตาม Tokyo Tech ยังมีจุดอ่อนคือความไม่เพียงพอในการผสมผสานเทคโนโลยีจากวิทยาศาสตร์และเศรษฐศาสตร์ ดังนั้น แล็บวิจัยของเราจึงพัฒนาทรัพยากรทางการศึกษาวิจัยของ Tokyo Tech ที่มีมากมาย โดยเฉพาะในส่วนของงานวิจัยทางด้านวิทยาศาสตร์และวิศวะพลังงาน, ระบบพลังงาน, สังคมศาสตร์และเทคโนโลยี, นวัตกรรม, ทรัพยากรและสิ่งแวดล้อม, และเศรษฐศาสตร์การพัฒนา</span></div><br><div><span style=\"font-weight: 400;\">ไอเดียในการศึกษาคือ มองทะลุความต้องการของนักเรียนในขอบเขตวิจัย และสนับสนุนในสิ่งนั้น นักเรียนในแล็บของเราส่วนใหญ่มีทัศนคติของตนเองจากภูมิหลังที่หลากหลาย และทัศนวิสัยในชีวิตที่แตกต่าง</span></div><br><div><span style=\"font-weight: 400;\">นักเรียนของเราใช้เวลา 2-5 ปี สำหรับหลักสูตรบัณฑิตวิทยาลัย เราหวังว่านักเรียนจะสามารถจัดการตนเอง, ได้ลองหัวข้อวิจัยและกระบวนการวิจัยใหม่ๆ เราหวังเป็นอย่างยิ่งว่าการทำงานที่ขยันหมั่นเพียรจะแปลเปลี่ยนกลายเป็นนวัตกรรมใหม่ๆสู่สังคม</span></div><br><div><span style=\"font-weight: 400;\"><br></span></div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content2-e\" data-toolbar=\"-mbrBtnMove\">โครงร่างการวิจัย</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px",
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "msg-box4-9n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b><i>โครงร่างการวิจัย</i></b></blockquote><blockquote><p>1. &nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;เศรษฐศาสตร์การประเมินเทคโนโลยีพลังงาน</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; ประกอบไปด้วยการประเมินเชิงเศรษฐศาสตร์สำหรับเทคโนโลยีพลังงานในด้านเชื้อเพลิงฟอสซิล, ชีวมวล, ระบบการดักจับและจัดเก็บคาร์บอน, และอื่นๆ ในแง่</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ของค่าใช้จ่ายไฟฟ้า รวมไปถึงการลดการปล่อยมลพิษต่อสิ่งแวดล้อม อาทิเช่นคาร์บอนไดออกไซด์</p></blockquote><blockquote><p><span style=\"font-size: 1.09rem;\">2.</span>&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;การวิเคราะห์ระบบพลังงานและการจัดหาวัสดุ</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;ทรัพยากรพลังงานและเทคโนโลยีพลังงานนั้นเกี่ยวโยงกัน เนื่องจากคำว่าทรัพยากร มีคำจำกัดความคือ การถ่ายโอนและจัดเก็บภายในระบบเศรษฐกิจและ</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;สังคม (เรียกว่า ระบบพลังงาน) ดังนั้น การวิเคราะห์ระบบอุปสงค์ อุปทาน จึงมีความจำเป็น ไม่เพียงแค่สำหรับทรัพยากร แต่ยังจำเป็นสำหรับการทำนาย</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เทคโนโลยีที่จะนำมาใช้ในญี่ปุ่น เอเชีย และทั่วโลกภายในปีคศ.2030, 2050, และ 2100</p></blockquote><blockquote><p><span style=\"font-size: 1.09rem;\">3. </span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.09rem;\"><b>การประเมินผลกระทบต่อสิ่งแวดล้อม</b></span></p><p>&nbsp; &nbsp; &nbsp; &nbsp;ค่าใช้จ่ายขั้นต้นของการลดการปล่อยมลภาวะสู่สิ่งแวดล้อม อาทิเช่น CO2, SOx, NOx นั้นได้มีการประเมินในโครงร่างการวิจัยหัวข้อข้างต้น ในส่วนของการประเมิน</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ผลกระทบต่อสิ่งแวดล้อมนั้นจะใช้โมเดล Life Cycle Impact Assessment (LCIA) และ Integrated Assessment Modeling (IAM) และใช้การประมาณค่า Marginal Willingness to </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pay (MWTP) โดยการใช้แบบสำรวจ</p></blockquote><blockquote><p>\n\n4.&nbsp; &nbsp; &nbsp;<b>การประเมินความยั่งยืนด้วยดัชนีต่างๆ</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-size: 17.44px;\">วิเคราะห์ดัชนีการประเมินความยั่งยืนจากผลกระทบต่อสิ่งแวดล้อม, ทรัพยากร, และเศรษฐศาสตร์ โดยใช้ตัวบ่งชี้เป็นความมั่งคั่ง (Inclusive wealth) ในการเก็บ</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.44px;\">ข้อมูลความเปลี่ยนแปลงของความยั่งยืน ขอบเขตการวิจัยนี้ยังรวมไปถึงการศึกษาตัวบ่งชี้อื่นๆ อาทิเช่น Resources Productivity, Eco-Efficiency, และ Human </span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.44px;\">Appropriated Photosynthetic Net Primary Productivity (HANPP) อีกด้วย&nbsp;</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-9o"
         }
       ]
     }
