@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_2219-clone",
-    "currentPage": "page5.html",
+    "currentPage": "page21.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 358,
+    "uniqCompNum": 363,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -467,7 +467,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b><i>Grade, Name, Research Topic</i></b></blockquote><blockquote><b><i>Current Student 2021</i></b></blockquote><blockquote><b><i>\n</i></b></blockquote><blockquote><b><i>Doctoral Student:\n</i></b></blockquote><blockquote><p>Name: Yutaro Shimada\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Economic and environmental assessment of ground source heat pump in Bangkok, Thailand</span></p><p><br></p><p>Name: Amin Nazarahari</p><p><span style=\"font-size: 1.09rem;\">Country: Iran</span></p><p><span style=\"font-size: 1.07rem;\">Title of research: Energy poverty in developed countries - case of Japan while assessing the role of consumption attitudes and behaviors</span></p></blockquote><blockquote><p><i><b><br></b></i></p><p><i><b>Master's Student:</b></i></p></blockquote><blockquote><p>Name: Rivaldi Madyatama</p><p>Country: Indonesia</p><p>Title of research: Life Cycle Assessment of Proper Waste Management in Jakarta, Indonesia</p><p><br></p><p>Name: Aulia Shabrina\n</p><p><span style=\"font-size: 1.09rem;\">Country: Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Techno-Economic Assessment on Bioethanol Plant from Oil Palm Frond in Indonesia</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Linux Farungsang\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Thailand\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Assessment of Rooftop Solar Photovoltaic Potential based on Machine Learning and GIS Spatial Analysis in Bangkok, Thailand</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Mako Mizuno\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Japan\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Study of cooling systems by snow storage in Niigata, Japan: lifecycle basis analysis</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\"><b><i>Bachelor Student:</i></b></span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Rino Hirose\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Japan\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: TBA</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: \n</span><span style=\"font-size: 1.09rem;\">Saksucha Submakudom</span></p><p><span style=\"font-size: 1.09rem;\">\n</span><span style=\"font-size: 1.09rem;\">Country: Thailand</span></p><p><span style=\"font-size: 1.09rem;\">\n</span><span style=\"font-size: 1.09rem;\">Title of research: TBA</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\"><b><i>Research Visitor:</i></b></span></p><p><span style=\"font-size: 1.09rem;\"><br>Name: Khalid Alrashoud\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Saudi Arabia\n</span></p><p><span style=\"font-size: 1.09rem;\">Status: Visiting Fellow\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research:  Transfer of Environmentally Sound Technologies (ESTs) to Saudi Arabi</span></p><p><span style=\"font-size: 1.09rem;\"><br></span><br></p></blockquote>",
+          "text": "<blockquote><b><i>Grade, Name, Research Topic</i></b></blockquote><blockquote><b><i>Current Student 2021</i></b></blockquote><blockquote><p><b><i>Post-Doctoral Student&nbsp;</i></b></p><p><b><i><br></i></b></p><p><i style=\"\">Name: Yutaro Shimada\n</i></p><p><i>Country: Japan \n</i></p><p><i style=\"\">Title of research: Economic and environmental assessment of ground source heat pump in Bangkok, Thailand</i></p><p><b><i>\n</i></b></p></blockquote><blockquote><b><i>Doctoral Student:\n</i></b></blockquote><blockquote><p>Name: Yutaro Shimada\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Economic and environmental assessment of ground source heat pump in Bangkok, Thailand</span></p><p><br></p><p>Name: Amin Nazarahari</p><p><span style=\"font-size: 1.09rem;\">Country: Iran</span></p><p><span style=\"font-size: 1.07rem;\">Title of research: Energy poverty in developed countries - case of Japan while assessing the role of consumption attitudes and behaviors</span></p></blockquote><blockquote><p><i><b><br></b></i></p><p><i><b>Master's Student:</b></i></p></blockquote><blockquote><p>Name: Rivaldi Madyatama</p><p>Country: Indonesia</p><p>Title of research: Life Cycle Assessment of Proper Waste Management in Jakarta, Indonesia</p><p><br></p><p>Name: Aulia Shabrina\n</p><p><span style=\"font-size: 1.09rem;\">Country: Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Techno-Economic Assessment on Bioethanol Plant from Oil Palm Frond in Indonesia</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Linux Farungsang\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Thailand\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Assessment of Rooftop Solar Photovoltaic Potential based on Machine Learning and GIS Spatial Analysis in Bangkok, Thailand</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Mako Mizuno\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Japan\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: Study of cooling systems by snow storage in Niigata, Japan: lifecycle basis analysis</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\"><b><i>Bachelor Student:</i></b></span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: Rino Hirose\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Japan\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research: TBA</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\">Name: \n</span><span style=\"font-size: 1.09rem;\">Saksucha Submakudom</span></p><p><span style=\"font-size: 1.09rem;\">\n</span><span style=\"font-size: 1.09rem;\">Country: Thailand</span></p><p><span style=\"font-size: 1.09rem;\">\n</span><span style=\"font-size: 1.09rem;\">Title of research: TBA</span></p><p><span style=\"font-size: 1.09rem;\"><br></span></p><p><span style=\"font-size: 1.09rem;\"><b><i>Research Visitor:</i></b></span></p><p><span style=\"font-size: 1.09rem;\"><br>Name: Khalid Alrashoud\n</span></p><p><span style=\"font-size: 1.09rem;\">Country: Saudi Arabia\n</span></p><p><span style=\"font-size: 1.09rem;\">Status: Visiting Fellow\n</span></p><p><span style=\"font-size: 1.09rem;\">Title of research:  Transfer of Environmentally Sound Technologies (ESTs) to Saudi Arabi</span></p><p><span style=\"font-size: 1.09rem;\"><br></span><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1074,7 +1074,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Achievements in FY2019/2020 (Peer Reviewed Journal)</b></p><p><b><br></b></p><p>1. Tokimatsu et al., \"Toward a more comprehensive assessment: Interlinked global models of LCIA and IAM over this century\", International Journal of Life Cycle Assessment, https://doi.org/10.1007/s11367-020-01750-8\n</p><p>2. Tokimatsu et al., “Tackling to the Stiglitz report: measuring social progress and economic performance under climate policy scenarios”, Modern Economy, 10(11), 2209-2231\n</p><p>\n</p><p>3. Elkhayat et al., \"Life cycle cost analysis on three high-performance glazing systems for an office building in New Cairo, Egypt”, Architectural engineering and Design Management, in press\n</p><p>\n</p><p>4. Elkhayat et al., \"A comparative life cycle assessment of three high-performance glazing systems for office buildings in a hot desert climate zone\" Clean Technologies and Environmental Policy, in press\n</p><p>\n</p><p>5. Elkhayat et al., \"Multi-criteria selection of high-performance glazing systems: A case study of an office building in New Cairo, Egypt, Journal of Building Engineering, in press\n</p><p>\n</p><p>6. Alrashoud &amp; Tokimatsu., “An exploratory study of the public’s views on residential solar photovoltaic systems in oil-rich Saudi Arabia”, Environment and Development, in press\n</p><p>\n</p><p>7. Huda et al., “Techno-Economic Analysis of Vehicle to Grid (V2G) Integration as Distributed Energy Resources in Indonesia Power System”, Enegies, in press\n</p><p>\n</p><p>8. Darmawan et al., “Efficient co-production of power and ammonia from black liquor”, Int. J. Hydrogen Energy, in press\n</p><p>\n</p><p>9. Tanaka &amp; Tokimatsu., “Social capital, subjective well-being, and happiness - Evidenced from Survey on Various European and Asian Countries to Address the Stiglitz Report-“, Modern Economy 2020 (11)322-348\n</p><p>\n</p><p>10. Shimada et al., “A Study on the Operational Condition of a Ground Source Heat Pump in Bangkok Based on a Field Experiment and Simulation”, Energies 2020, 13, 274; doi:10.3390/en13010274\n</p><p>\n</p><p>11. Alrashoud &amp; Tokimatsu., “Social Acceptance for Rooftop Solar Photovoltaic Systems in Saudi Arabia”, 2019 Sustainability 11, 5259\n</p><p>\n</p><p>12. Elmasoudi et al., “Environmental Impact Assessment Model for Buildings’ Construction Activities”, International Journal of Construction Management, Published online: 03 Sep 2019\n</p><p><br></p><p><b><br></b></p><p><b>Achievements in FY2018/2019 (Peer Reviewed Journal)</b></p><p><br></p><p>1. Shimada et al., “Life Cycle Environmental Evaluation on Introduction of Ground Source Heat Pump in Bangkok, Thailand”, Journal of Life Cycle Assessment Japan, in press\n</p></blockquote><blockquote>2. Hamzah et al., “Solid fuel from oil palm biomass residues and municipal solid waste by hydrothermal treatment for electric power generation in Malaysia: A review”, Sustainability, 11(4), 1060&nbsp;&nbsp;\n</blockquote><blockquote>3. Darmawan et al., “Energy-efficient recovery of black liquor through gasification and syngas chemical looping”, Appl. Ener. 219, 290-298\n</blockquote><blockquote>4. Darmawan et al., “Integrated system of rice production and electricity generation”, Applied Energy 220, 672-680\n</blockquote><blockquote>5. Darmawan et al, “Black liquor-based hydrogen and power co-production: Combination of supercritical water gasification and chemical looping”, Applied Energy\n</blockquote><blockquote>6. Nadimi &amp; Tokimatsu, “Potential energy saving via overall efficiency relying on quality of life”, APEN, 283-299\n</blockquote><blockquote>7. Nadimi &amp; Tokimatsu, “Energy use analysis in the presence of quality of life, poverty, health, and carbon dioxide emissions”, Energy – The international journal 153, 671-684\n</blockquote><blockquote>8. Nadimi &amp; Tokimatsu, “Renewable Energy Substitution Model and Environmental Preservation” In: Technologies and Eco-innovation towards Sustainability II. Springer, Singapore, pp271-283\n</blockquote><blockquote>9. Alrashoud &amp; Tokimatsu “Diffusion Policy Assessment of Solar Energy”, ibid, pp201-214\n</blockquote><blockquote>10. Takaki &amp; Tokimatsu, “Study on a Model of Cost of Electricity for Biomass Including Learning Effect to Evaluate Feed-in-Tariff Pricing”, ibid, pp259-271\n</blockquote><blockquote>11. Hamzah et al.,\"Wood Biomass Pellet Characterization for Solid Fuel Production in Power Generation\".&nbsp;International Journal of Renewable Energy Sources,&nbsp;3, 32-40\n</blockquote><blockquote>12. Takeda et al., ” The Structure Analysis of Japan's Energy Security by Cognitive Map and Text Analysis: With a Focus on the Import of Natural Gas from Russia”, Energy and Resources (in Japanese)\n</blockquote><blockquote><p>13. Elmasoudi et al., “Environmental Impact Assessment Model for Buildings’ Construction Activities”, Int. J. Construction Management</p><p><br></p><p><b><br></b></p><p><b>Achievements in FY2019/2020 (Conferences)</b></p><p><br></p><p>K. Takeda, N. Purevsuren, K. Tokimatsu, M. Ikegami, M. Hook, “Risk Analysis of Japan's Energy Security: With a Focus on the Import of Natural Gas, peer reviewed article in E-book, Eco Design 2019 Conference, in press\r</p><p>\r</p><p>Y. Shimada, Y. Uchida, H. Kurishima, K. Tokimatsu, “Study on the Influence of the Ground Thermal Conductivity on the Life Cycle Environmental Load of the Ground Source Heat Pump in Bangkok, Thailand”, ibid\r</p><p>\r</p><p>H. Muhammad, K. Tokimatsu, M. Aziz, A. Darmawan, “Feasibility Study for Electric Vehicle Utilization as Grid Supporting in Indonesian Power System”, ibid\r</p><p>\r</p><p>M. Chen, T. Ookubo, K. Hasegawa, T. Oda, M. Ihara, K. Tokimatsu, “Study on optimum operation of solar power generation and hydrogen utilization technology on the customer side considering power sales”, ibid\r</p><p>\r</p><p>M. Hashizume, K. Tokimatsu “Techno-economic Assessment on Waste from Palm Oil Mill to Electricity in Malaysia”, ibid\r</p><p><br></p><p><br></p><p><br></p><p><b>Achievements in FY2018/2019 (Conferences)</b></p><p> \n</p></blockquote><blockquote><p>Muhammad Huda, Koji Tokimatsu, Arif Darmawan, Muhammad Aziz. Feed-In Tariff Optimization For Vehicle-To-Grid Implementation As Ancilary Service In Indonesia Power System. 11th International Conference on Applied Energy (ICAE2018). Aug. 2019.</p><p><br></p><p>\n</p><p>\n</p><p>Arif Darmawan, Muhammad W Ajiwibowo, Muhammad Aziz, Koji Tokimatsu. Efficient Ammonia Production from Empty Fruit Bunch Via Hydrothermal Gasification, Syngas Chemical Looping and NH3 Synthesis. 11th International Conference on Applied Energy (ICAE2018). Aug. 2019.</p><p><br></p><p>\n</p><p>\n</p><p>Yutaro Shimada, Youhei Uchida, Hideaki Kurishima, Koji Tokimatsu. Study On Optimum Operation Of Ground Source Heat Pump In Bangkok, Thailand Based On The Field Experiment. 11th International Conference on Applied Energy (ICAE2018). Aug. 2019.</p><p><br></p><p>\n</p><p>\n</p><p>Amin Nazarahari, Tokimatsu Koji. Underestimated Energy Poverty in Developed Countries – Case of Japan While Accounting Energy Needs. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019</p><p><br></p><p>\n</p><p>\n</p><p>Takeda Kengo, Purevsuren Norovsambuu, Koji Tokimatsu, Masako Ikegami, Mikael Hook. The Import Structure of LNG from Russia to Japan by Cognitive Map and Text Analysis. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Hashizume Michino, Tokimatsu Koji. Techno-economic Assessment on Waste from Palm Oil Mill to Electricity in Malaysia. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Meng Chen, Tatsuya Ookubo, Kei Hasegawa, Manabu Ihara, Takuya Oda, Koji Tokimatsu. Techno-economic analysis on renewable energy via hydrogen, views from macro and micro scopes. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Yutaro Shimada, Youhei Uchida, Hideaki Kurishima, Koji Tokimatsu. Influence of Thermal Conductivity and Subsurface Temperature on Life-Cycle Environmental Load of the Ground Source Heat Pump in Bangkok, Thailand. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Muhammad Huda, Koji Tokimatsu, Arif Darmawan, Muhammad Aziz. Feasibility Study for Electric Vehicle Utilization as Grid Supporting in Indonesian Power System. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p><br></p><p>Arif Darmawan, Muhammad W Ajiwibowo, Anggoro Cahyo F,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;Co-production of hydrogen and power from palm mill wastes, 10th International Conference on Applied Energy (ICAE2018), Energy Procedia, Elsevier, Aug. 2018.\n</p></blockquote><blockquote>Muhammad Huda,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;The future of electric vehicles to grid integration in Indonesia, 10th International Conference on Applied Energy (ICAE2018), Energy Procedia, Elsevier, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan, Muhammad W Ajiwibowo,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;Efficient black liquor conversion to power and H2 by adopting negative emission technology, 10th International Conference on Applied Energy (ICAE2018), Energy Procedia, Elsevier, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan, Dwika Budianto, Muhammad W Ajiwibowo,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;Coal cofiring with hydrothermally-treated empty fruit bunch using computational fluid dynamics. PRES Conference 2018, Prague. Chemical Engineering Transactions, AIDIC, Vol. 70, pp. 2101-2106, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan,&nbsp;Muhammad Kunta Biddinika,&nbsp;Muhammad Huda,&nbsp;Koji Tokimatsu,&nbsp;Muhammad Aziz.&nbsp;Toward sustainable agricultural: integrated system of rice processing and electricity generation.&nbsp;PRES&nbsp;Conference 2018, Prague.&nbsp;Chemical Engineering Transactions, AIDIC, Vol. 70, pp. 1669-1674, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan, Muhammad W Ajiwibowo,&nbsp;Baskoro Lokahita,&nbsp;Koji Tokimatsu,&nbsp;Muhammad Aziz.&nbsp;Cogeneration system of power and H2 from black liquor through gasification and syngas chemical looping.&nbsp;PRES&nbsp;Conference 2018, Prague.&nbsp;Chemical Engineering Transactions, AIDIC, Vol. 70, pp. 703-708, Aug. 2018.\n</blockquote><blockquote>Hamzah, N., Tokimatsu, K., &amp; Yoshikawa, K. (2018). Energy Potential from Oil Palm Biomass Residues and Municipal Solid Waste for Solid Fuel Production by Hydrothermal Treatment in Malaysia. In The 10th Asia-Pacific Landfill Symposium. Tokyo.&nbsp;\n</blockquote><blockquote><br></blockquote>",
+          "text": "<blockquote><p><b>Achievements in FY2019/2020 (Peer Reviewed Journal)</b></p><p><b><br></b></p><p>1. Tokimatsu et al., \"Toward a more comprehensive assessment: Interlinked global models of LCIA and IAM over this century\", International Journal of Life Cycle Assessment, https://doi.org/10.1007/s11367-020-01750-8\n</p><p>2. Tokimatsu et al., “Tackling to the Stiglitz report: measuring social progress and economic performance under climate policy scenarios”, Modern Economy, 10(11), 2209-2231\n</p><p>\n</p><p>3. Elkhayat et al., \"Life cycle cost analysis on three high-performance glazing systems for an office building in New Cairo, Egypt”, Architectural engineering and Design Management, in press\n</p><p>\n</p><p>4. Elkhayat et al., \"A comparative life cycle assessment of three high-performance glazing systems for office buildings in a hot desert climate zone\" Clean Technologies and Environmental Policy, in press\n</p><p>\n</p><p>5. Elkhayat et al., \"Multi-criteria selection of high-performance glazing systems: A case study of an office building in New Cairo, Egypt, Journal of Building Engineering, in press\n</p><p>\n</p><p>6. Alrashoud &amp; Tokimatsu., “An exploratory study of the public’s views on residential solar photovoltaic systems in oil-rich Saudi Arabia”, Environment and Development, in press\n</p><p>\n</p><p>7. Huda et al., “Techno-Economic Analysis of Vehicle to Grid (V2G) Integration as Distributed Energy Resources in Indonesia Power System”, Enegies, in press\n</p><p>\n</p><p>8. Darmawan et al., “Efficient co-production of power and ammonia from black liquor”, Int. J. Hydrogen Energy, in press\n</p><p>\n</p><p>9. Tanaka &amp; Tokimatsu., “Social capital, subjective well-being, and happiness - Evidenced from Survey on Various European and Asian Countries to Address the Stiglitz Report-“, Modern Economy 2020 (11)322-348\n</p><p>\n</p><p>10. Shimada et al., “A Study on the Operational Condition of a Ground Source Heat Pump in Bangkok Based on a Field Experiment and Simulation”, Energies 2020, 13, 274; doi:10.3390/en13010274\n</p><p>\n</p><p>11. Alrashoud &amp; Tokimatsu., “Social Acceptance for Rooftop Solar Photovoltaic Systems in Saudi Arabia”, 2019 Sustainability 11, 5259\n</p><p>\n</p><p>12. Elmasoudi et al., “Environmental Impact Assessment Model for Buildings’ Construction Activities”, International Journal of Construction Management, Published online: 03 Sep 2019\n</p><p><br></p><p><b><br></b></p><p><b>Achievements in FY2018/2019 (Peer Reviewed Journal)</b></p><p><br></p><p>1. Shimada et al., “Life Cycle Environmental Evaluation on Introduction of Ground Source Heat Pump in Bangkok, Thailand”, Journal of Life Cycle Assessment Japan, in press\n</p></blockquote><blockquote>2. Hamzah et al., “Solid fuel from oil palm biomass residues and municipal solid waste by hydrothermal treatment for electric power generation in Malaysia: A review”, Sustainability, 11(4), 1060&nbsp;&nbsp;\n</blockquote><blockquote>3. Darmawan et al., “Energy-efficient recovery of black liquor through gasification and syngas chemical looping”, Appl. Ener. 219, 290-298\n</blockquote><blockquote>4. Darmawan et al., “Integrated system of rice production and electricity generation”, Applied Energy 220, 672-680\n</blockquote><blockquote>5. Darmawan et al, “Black liquor-based hydrogen and power co-production: Combination of supercritical water gasification and chemical looping”, Applied Energy\n</blockquote><blockquote>6. Nadimi &amp; Tokimatsu, “Potential energy saving via overall efficiency relying on quality of life”, APEN, 283-299\n</blockquote><blockquote>7. Nadimi &amp; Tokimatsu, “Energy use analysis in the presence of quality of life, poverty, health, and carbon dioxide emissions”, Energy – The international journal 153, 671-684\n</blockquote><blockquote>8. Nadimi &amp; Tokimatsu, “Renewable Energy Substitution Model and Environmental Preservation” In: Technologies and Eco-innovation towards Sustainability II. Springer, Singapore, pp271-283\n</blockquote><blockquote>9. Alrashoud &amp; Tokimatsu “Diffusion Policy Assessment of Solar Energy”, ibid, pp201-214\n</blockquote><blockquote>10. Takaki &amp; Tokimatsu, “Study on a Model of Cost of Electricity for Biomass Including Learning Effect to Evaluate Feed-in-Tariff Pricing”, ibid, pp259-271\n</blockquote><blockquote>11. Hamzah et al.,\"Wood Biomass Pellet Characterization for Solid Fuel Production in Power Generation\".&nbsp;International Journal of Renewable Energy Sources,&nbsp;3, 32-40\n</blockquote><blockquote>12. Takeda et al., ” The Structure Analysis of Japan's Energy Security by Cognitive Map and Text Analysis: With a Focus on the Import of Natural Gas from Russia”, Energy and Resources (in Japanese)\n</blockquote><blockquote><p>13. Elmasoudi et al., “Environmental Impact Assessment Model for Buildings’ Construction Activities”, Int. J. Construction Management</p><p><br></p><p><b><br></b></p><p><b>Achievements in FY2019/2020 (Conferences)</b></p><p><br></p><p>K. Takeda, N. Purevsuren, K. Tokimatsu, M. Ikegami, M. Hook, “Risk Analysis of Japan's Energy Security: With a Focus on the Import of Natural Gas, peer reviewed article in E-book, Eco Design 2019 Conference, in press\n</p><p>\n</p><p>Y. Shimada, Y. Uchida, H. Kurishima, K. Tokimatsu, “Study on the Influence of the Ground Thermal Conductivity on the Life Cycle Environmental Load of the Ground Source Heat Pump in Bangkok, Thailand”, ibid\n</p><p>\n</p><p>H. Muhammad, K. Tokimatsu, M. Aziz, A. Darmawan, “Feasibility Study for Electric Vehicle Utilization as Grid Supporting in Indonesian Power System”, ibid\n</p><p>\n</p><p>M. Chen, T. Ookubo, K. Hasegawa, T. Oda, M. Ihara, K. Tokimatsu, “Study on optimum operation of solar power generation and hydrogen utilization technology on the customer side considering power sales”, ibid\n</p><p>\n</p><p>M. Hashizume, K. Tokimatsu “Techno-economic Assessment on Waste from Palm Oil Mill to Electricity in Malaysia”, ibid\n</p><p><br></p><p><br></p><p><br></p><p><b>Achievements in FY2018/2019 (Conferences)</b></p><p> \n</p></blockquote><blockquote><p>Muhammad Huda, Koji Tokimatsu, Arif Darmawan, Muhammad Aziz. Feed-In Tariff Optimization For Vehicle-To-Grid Implementation As Ancilary Service In Indonesia Power System. 11th International Conference on Applied Energy (ICAE2018). Aug. 2019.</p><p><br></p><p>\n</p><p>\n</p><p>Arif Darmawan, Muhammad W Ajiwibowo, Muhammad Aziz, Koji Tokimatsu. Efficient Ammonia Production from Empty Fruit Bunch Via Hydrothermal Gasification, Syngas Chemical Looping and NH3 Synthesis. 11th International Conference on Applied Energy (ICAE2018). Aug. 2019.</p><p><br></p><p>\n</p><p>\n</p><p>Yutaro Shimada, Youhei Uchida, Hideaki Kurishima, Koji Tokimatsu. Study On Optimum Operation Of Ground Source Heat Pump In Bangkok, Thailand Based On The Field Experiment. 11th International Conference on Applied Energy (ICAE2018). Aug. 2019.</p><p><br></p><p>\n</p><p>\n</p><p>Amin Nazarahari, Tokimatsu Koji. Underestimated Energy Poverty in Developed Countries – Case of Japan While Accounting Energy Needs. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019</p><p><br></p><p>\n</p><p>\n</p><p>Takeda Kengo, Purevsuren Norovsambuu, Koji Tokimatsu, Masako Ikegami, Mikael Hook. The Import Structure of LNG from Russia to Japan by Cognitive Map and Text Analysis. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Hashizume Michino, Tokimatsu Koji. Techno-economic Assessment on Waste from Palm Oil Mill to Electricity in Malaysia. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Meng Chen, Tatsuya Ookubo, Kei Hasegawa, Manabu Ihara, Takuya Oda, Koji Tokimatsu. Techno-economic analysis on renewable energy via hydrogen, views from macro and micro scopes. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Yutaro Shimada, Youhei Uchida, Hideaki Kurishima, Koji Tokimatsu. Influence of Thermal Conductivity and Subsurface Temperature on Life-Cycle Environmental Load of the Ground Source Heat Pump in Bangkok, Thailand. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p>\n</p><p><br></p><p>Muhammad Huda, Koji Tokimatsu, Arif Darmawan, Muhammad Aziz. Feasibility Study for Electric Vehicle Utilization as Grid Supporting in Indonesian Power System. 11th International Symposium on Environmentally Conscious Design and Inverse Manufacturing (EcoDesign2019). November 2019\n</p><p><br></p><p>Arif Darmawan, Muhammad W Ajiwibowo, Anggoro Cahyo F,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;Co-production of hydrogen and power from palm mill wastes, 10th International Conference on Applied Energy (ICAE2018), Energy Procedia, Elsevier, Aug. 2018.\n</p></blockquote><blockquote>Muhammad Huda,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;The future of electric vehicles to grid integration in Indonesia, 10th International Conference on Applied Energy (ICAE2018), Energy Procedia, Elsevier, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan, Muhammad W Ajiwibowo,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;Efficient black liquor conversion to power and H2 by adopting negative emission technology, 10th International Conference on Applied Energy (ICAE2018), Energy Procedia, Elsevier, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan, Dwika Budianto, Muhammad W Ajiwibowo,&nbsp;Muhammad Aziz,&nbsp;Koji Tokimatsu.&nbsp;Coal cofiring with hydrothermally-treated empty fruit bunch using computational fluid dynamics. PRES Conference 2018, Prague. Chemical Engineering Transactions, AIDIC, Vol. 70, pp. 2101-2106, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan,&nbsp;Muhammad Kunta Biddinika,&nbsp;Muhammad Huda,&nbsp;Koji Tokimatsu,&nbsp;Muhammad Aziz.&nbsp;Toward sustainable agricultural: integrated system of rice processing and electricity generation.&nbsp;PRES&nbsp;Conference 2018, Prague.&nbsp;Chemical Engineering Transactions, AIDIC, Vol. 70, pp. 1669-1674, Aug. 2018.\n</blockquote><blockquote>Arif Darmawan, Muhammad W Ajiwibowo,&nbsp;Baskoro Lokahita,&nbsp;Koji Tokimatsu,&nbsp;Muhammad Aziz.&nbsp;Cogeneration system of power and H2 from black liquor through gasification and syngas chemical looping.&nbsp;PRES&nbsp;Conference 2018, Prague.&nbsp;Chemical Engineering Transactions, AIDIC, Vol. 70, pp. 703-708, Aug. 2018.\n</blockquote><blockquote>Hamzah, N., Tokimatsu, K., &amp; Yoshikawa, K. (2018). Energy Potential from Oil Palm Biomass Residues and Municipal Solid Waste for Solid Fuel Production by Hydrothermal Treatment in Malaysia. In The 10th Asia-Pacific Landfill Symposium. Tokyo.&nbsp;\n</blockquote><blockquote><br></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2403,7 +2403,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>修士卒業前最後の2、3ヶ月の間に、時松先生は週に2回ぐらい時間を配り、私と打ち合わしをしてくれます。モデル計算の具体的な方法を議論する打ち合わせと、論文の日本語を単語まで詳しく修正する打ち合わせです。ある日、ミーティングは9時まで続いて、その後、家に帰ると途中まで先生と一緒に電車を乗りました。その時の20分ぐらいの会話はずっと記憶に残るかもしれません。 \n</blockquote><blockquote>その時は計算がやっと終わり、論文まとめ、製図、仕上げが始まったので、電車で最終論文の内容改訂案について話しましたが、ついに話が変わり、友人のようにこのあっという間に終わった2年間を振り返りました。 \n</blockquote><blockquote>2年前に私が研究室に申し込んだとき、先生偶然北京で学会があり、そこで私と先生会いました。実際、その前は研究目標はまだ具体的ではないため、先生は私を受け入れるかどうか長い間躊躇しました。しかし、北京で出会ったとき、私は自分で研究計画を再考し、エネルギーと環境の分野での研究意欲をしっかりと述べ、ついに先生の承認を得て時松研に入りました。 \n</blockquote><blockquote>入学後、水素エネルギーに関する経済分析を始めたいと思い、幸い、時松先生は私の計画に賛成しただけでなく、水素エネルギーの分野で最も優れた2つの研究室、伊原研と小田研に私を紹介し、そレデマクロとミクロの両面で経済分析を行いました。これは仕事量と学習量を2倍にすることを意味し、苦しいと感じることもありましたが（当時、私は3つの研究室で自分の机があり、週三つ研究室を通ったり、 教授6人と私だけのスーパーミーティングに直面した）今では私の知識と達成度が2倍以上感じています。三研究室の教授の助けを借りて、私には想像もできなかった学術成果を達成し、国内外の学会に参加し、投稿論文を発表し、そしてシンポジウムで中国水素エネルギー協会会長の通訳を務める機会を得ました。 \n</blockquote><blockquote>勉強だけではなく、当時の時松研究室での生活も楽しかったです。週に1、2回しか出かけませんが、グローバルなメンバー構成でいろんな人と話し合い、研究室に来るたびに楽しみにしています。それ以外の時は、メールで研究室のメンバー（英語）や先生（日本語）とコミュニケーションするため、語学スキルを身につけただけでなく、日本社会が必要とする綿密的、全面的な思考と丁寧なコミュニケーション方法を学びました。これは私がこの2年で学んだ最も重要な資産です。 \n</blockquote><blockquote>また、学術的、生活的な収穫は卒業しても終わらないでしょう。卒業後、私はトヨタ中国の新しいエネルギー技術計画部に入り、将来エネルギー分野で活躍していきたいです。2年間に時松研で学んだ専門知識、日本の考え方、社会的コミュニケーション能力を応用し、日中エネルギー技術交流の発展に貢献したいと思います。 \n</blockquote><blockquote>\n</blockquote><blockquote><b>教員からのコメント：</b>\n</blockquote><blockquote>　初めて彼女からメール連絡を頂いたのは、約3年前の夏頃でした。東北大での学部4年生の交換留学（水素の実験）が終わり、エネルギーシステムに関する大学院研究室を探しているとのこと。同大学に著名な先生がおられるのに何故と問うと、留学生に適した入学制度が無いとのこと。日本生まれ、中国育ち。仙台はとても良いところだが、就職を考えると東京に来たい。研究室訪問をしたい。メール交信を続けるうちに、的確な日本語で比較的早くテンポ良く返信をくれるので、仮に受入た場合、コミュニケーションの点では研究指導は大丈夫だろうと期待しました。 \n</blockquote><blockquote>　次に彼女と会ったのは、10月の北京での国際会議のこと。会議会場で関連発表を聞いてもらって関心が持てるか、関連研究者にも会ってもらったりしました。本人とも2時間程度、在学期間中に何を期待するか、卒業後どうしたいか、それに対して私が何を出来るか、色々と話をしました。廃棄物関係に研究の関心があり、親御さんも北京で関連事業をなさっておられるとのこと。卒業後、北京は環境が悪く喘息の両親を日本に呼び寄せて、中国の環境改善に役立てられる日本の会社で働きたいとのこと。研究テーマと就職に期待を持ち、受入ることにしました。&nbsp;</blockquote><blockquote>実際には、研究テーマ、就職、いずれも外れに終わりました。その代わりに、日本人目線では戸惑う、中国人には「普通の」挙動を彼女から学ぶことになりました。学生さんは誰しも、将来の可能性を短期間で模索し、自己ベストとなる意思決定を行うものであり変更は当然のこと。とはいえ他の学生とは違い、彼女特有の「急な心変わり」には振り回され続けました。「心変わり」以外にも多くの目に余る我侭行動がありました。昔ながらの教員なら怒鳴って退学処分でしょう。「少なくとも日本社会では許されない。同期の武田さんという日本的行動の模範を見習いなさい。」そうした不良行動を何度も指導したものでした。 \n</blockquote><blockquote>M2夏の香港国際会議以降、そのまま本人は中国本土で遊び、さらには10月上旬に登山事故も起こして11月上旬まで研究の進展なし。「一日24時間全てを研究に費やし、正月返上しても間に合わない。」「私は短期間でお化け屋敷を作った過去の経験があって自信がある。」。この珍回答には唖然としましたが反論しませんでした。彼女のプライドがようやく本気エンジンをかけました。それからというもの、研究内容の打合せと、論文作成の打合せを週2回のペースで進めました。（研究では当たり前だが）夜9時過ぎまで毎回数時間を要しました。私にとり過酷な時期でした。 \n</blockquote><blockquote>年末年始の休みについても「絶対的時間不足の中でも、家庭との両立が社会に出ると求められる。今回はその練習で萌ちゃんが成長するなら」とカレンダーを睨み、作業計画を2人で相談、年末年始はどこに居てもできる作業にし、「最終判断は自分で。ただし自己責任。卒業が遅れても私はこれ以上無理。」と言い渡しました。数多くの心変わりと我侭が続いた中で、私にとって一番苦しい決断でした。本当にこれで卒業できるのか？最後は学生を信じるしかない。学生とともに指導教員として成長した瞬だったかも知れません。やり尽した所まで辿り着いた感じに2人が至ったのは、翌週が審査という1月末。 \n</blockquote><blockquote>彼女との2人3脚はこのように大変なものでした。萌ちゃんは、このように「とってもnaughty」でしたが、振り回され続けたために、逆に皮肉なことに思い入れもひとしお。これも教員冥利の一種でしょう。私の日本酒にも付き合ってくれました。なお、彼女の名誉のために、「先輩を見習って査読付き論文を公刊したい」と卒業後でも頑張っています。</blockquote>",
+          "text": "<blockquote>修士卒業前最後の2、3ヶ月の間に、時松先生は週に2回ぐらい時間を配り、私と打ち合わしをしてくれます。モデル計算の具体的な方法を議論する打ち合わせと、論文の日本語を単語まで詳しく修正する打ち合わせです。ある日、ミーティングは9時まで続いて、その後、家に帰ると途中まで先生と一緒に電車を乗りました。その時の20分ぐらいの会話はずっと記憶に残るかもしれません。 \r</blockquote><blockquote>その時は計算がやっと終わり、論文まとめ、製図、仕上げが始まったので、電車で最終論文の内容改訂案について話しましたが、ついに話が変わり、友人のようにこのあっという間に終わった2年間を振り返りました。 \r</blockquote><blockquote>2年前に私が研究室に申し込んだとき、先生偶然北京で学会があり、そこで私と先生会いました。実際、その前は研究目標はまだ具体的ではないため、先生は私を受け入れるかどうか長い間躊躇しました。しかし、北京で出会ったとき、私は自分で研究計画を再考し、エネルギーと環境の分野での研究意欲をしっかりと述べ、ついに先生の承認を得て時松研に入りました。 \r</blockquote><blockquote>入学後、水素エネルギーに関する経済分析を始めたいと思い、幸い、時松先生は私の計画に賛成しただけでなく、水素エネルギーの分野で最も優れた2つの研究室、伊原研と小田研に私を紹介し、そレデマクロとミクロの両面で経済分析を行いました。これは仕事量と学習量を2倍にすることを意味し、苦しいと感じることもありましたが（当時、私は3つの研究室で自分の机があり、週三つ研究室を通ったり、 教授6人と私だけのスーパーミーティングに直面した）今では私の知識と達成度が2倍以上感じています。三研究室の教授の助けを借りて、私には想像もできなかった学術成果を達成し、国内外の学会に参加し、投稿論文を発表し、そしてシンポジウムで中国水素エネルギー協会会長の通訳を務める機会を得ました。 \r</blockquote><blockquote>勉強だけではなく、当時の時松研究室での生活も楽しかったです。週に1、2回しか出かけませんが、グローバルなメンバー構成でいろんな人と話し合い、研究室に来るたびに楽しみにしています。それ以外の時は、メールで研究室のメンバー（英語）や先生（日本語）とコミュニケーションするため、語学スキルを身につけただけでなく、日本社会が必要とする綿密的、全面的な思考と丁寧なコミュニケーション方法を学びました。これは私がこの2年で学んだ最も重要な資産です。 \r</blockquote><blockquote>また、学術的、生活的な収穫は卒業しても終わらないでしょう。卒業後、私はトヨタ中国の新しいエネルギー技術計画部に入り、将来エネルギー分野で活躍していきたいです。2年間に時松研で学んだ専門知識、日本の考え方、社会的コミュニケーション能力を応用し、日中エネルギー技術交流の発展に貢献したいと思います。 \r</blockquote><blockquote>\r</blockquote><blockquote><b>教員からのコメント：</b>\r</blockquote><blockquote>　初めて彼女からメール連絡を頂いたのは、約3年前の夏頃でした。東北大での学部4年生の交換留学（水素の実験）が終わり、エネルギーシステムに関する大学院研究室を探しているとのこと。同大学に著名な先生がおられるのに何故と問うと、留学生に適した入学制度が無いとのこと。日本生まれ、中国育ち。仙台はとても良いところだが、就職を考えると東京に来たい。研究室訪問をしたい。メール交信を続けるうちに、的確な日本語で比較的早くテンポ良く返信をくれるので、仮に受入た場合、コミュニケーションの点では研究指導は大丈夫だろうと期待しました。 \r</blockquote><blockquote>　次に彼女と会ったのは、10月の北京での国際会議のこと。会議会場で関連発表を聞いてもらって関心が持てるか、関連研究者にも会ってもらったりしました。本人とも2時間程度、在学期間中に何を期待するか、卒業後どうしたいか、それに対して私が何を出来るか、色々と話をしました。廃棄物関係に研究の関心があり、親御さんも北京で関連事業をなさっておられるとのこと。卒業後、北京は環境が悪く喘息の両親を日本に呼び寄せて、中国の環境改善に役立てられる日本の会社で働きたいとのこと。研究テーマと就職に期待を持ち、受入ることにしました。&nbsp;</blockquote><blockquote>実際には、研究テーマ、就職、いずれも外れに終わりました。その代わりに、日本人目線では戸惑う、中国人には「普通の」挙動を彼女から学ぶことになりました。学生さんは誰しも、将来の可能性を短期間で模索し、自己ベストとなる意思決定を行うものであり変更は当然のこと。とはいえ他の学生とは違い、彼女特有の「急な心変わり」には振り回され続けました。「心変わり」以外にも多くの目に余る我侭行動がありました。昔ながらの教員なら怒鳴って退学処分でしょう。「少なくとも日本社会では許されない。同期の武田さんという日本的行動の模範を見習いなさい。」そうした不良行動を何度も指導したものでした。 \r</blockquote><blockquote>M2夏の香港国際会議以降、そのまま本人は中国本土で遊び、さらには10月上旬に登山事故も起こして11月上旬まで研究の進展なし。「一日24時間全てを研究に費やし、正月返上しても間に合わない。」「私は短期間でお化け屋敷を作った過去の経験があって自信がある。」。この珍回答には唖然としましたが反論しませんでした。彼女のプライドがようやく本気エンジンをかけました。それからというもの、研究内容の打合せと、論文作成の打合せを週2回のペースで進めました。（研究では当たり前だが）夜9時過ぎまで毎回数時間を要しました。私にとり過酷な時期でした。 \r</blockquote><blockquote>年末年始の休みについても「絶対的時間不足の中でも、家庭との両立が社会に出ると求められる。今回はその練習で萌ちゃんが成長するなら」とカレンダーを睨み、作業計画を2人で相談、年末年始はどこに居てもできる作業にし、「最終判断は自分で。ただし自己責任。卒業が遅れても私はこれ以上無理。」と言い渡しました。数多くの心変わりと我侭が続いた中で、私にとって一番苦しい決断でした。本当にこれで卒業できるのか？最後は学生を信じるしかない。学生とともに指導教員として成長した瞬だったかも知れません。やり尽した所まで辿り着いた感じに2人が至ったのは、翌週が審査という1月末。 \r</blockquote><blockquote>彼女との2人3脚はこのように大変なものでした。萌ちゃんは、このように「とってもnaughty」でしたが、振り回され続けたために、逆に皮肉なことに思い入れもひとしお。これも教員冥利の一種でしょう。私の日本酒にも付き合ってくれました。なお、彼女の名誉のために、「先輩を見習って査読付き論文を公刊したい」と卒業後でも頑張っています。</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2497,7 +2497,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>エジプト日本科学技術大学の博士課程交換留学生として、時松先生研究室に9ヶ月間入社しました。研究室に加わり、時松教授の監修のもと、研究を発展させるだけでなく、将来的に指導教官として成功する方法を個人的に学んだことは幸運だったと思います。</p><p><br></p><p>\n</p><p>\n</p><p>私の研究分野は、時松先生の研究対象とは直接関係のない都市の緑地と都市部の熱的快適性に関するものですが、彼は私の滞在中、そして交換期間が終了した後も、いくつかの可能なサポートを提供してくれました。方法。第一に、他の研究室とは異なり、時松先生は研究室での研究の焦点とは直接関係がないにもかかわらず、私の選択したトピックに取り組む自由を与えてくれました。さらに、時松先生は、私の研究の直接の分野の教授である彼の同僚を私たちの会議に招待し、より経験豊富なフィードバックを求めました。また、時松先生は、技術や設備のサポートの面で、かなりの資金で奨学金を超えた場合でも、必要なソフトウェアで私の研究を惜しみなくサポートしてくれました。全体として、トキムタス先生は、研究者が最も必要としている最善の方法で研究が行われるように、あらゆる種類のサポートと支援を提供すると思います。しかし同時に、時松先生は、あなたが自分のトピックに関する知識とスキルを習得できる独立した研究者になることを奨励し、適切な時期に学術的支援を提供します。言い換えれば、研究室の環境はあなたがあなたの将来の研究キャリアに利益をもたらす成功した独立した研究者になることを奨励するでしょう。</p><p><br></p><p>\n</p><p> \n</p><p>研究室では、社会環境と支援はそれほど重要ではありませんでした。ラボには世界のさまざまな地域からの学生がいて、活気に満ちた興味深い環境になっています。また、時松教授は、研究知識の交換だけでなく、特に日本に到着した最初の期間に、日本への定住の段階を促進するための社会的支援（留学生向け）を奨励しています。さらに、Covid-19のパンデミックの間、時松先生からの絶え間ない支援と、ラボメンバーの心身の健康に関する情報の毎週の交換があり、すべてのメンバーがラボメンバーに安心感と安心感を与える問題がないことを確認しました。そのようなストレスの多い時期に私たちが働くのを助けた精神的安定。時松先生研究室にいらっしゃることを心から嬉しく思います。ポスドク研究のために日本を訪れる機会があれば、いつでもまた研究室に参加したいと思っています。時松先生の親切で絶え間ないサポートと、研究室の仲間であるアミン・ナザラハリさんの非常に親切なメンターに感謝します。&nbsp;</p><p><br></p><p><br></p><p><b>教員からのコメント：\n</b></p><p>\n</p><p><br></p><p>　彼女との最初の出会いは、Youssefと一緒の2018年3月20日。日本人に馴染みやすい丸顔。EJUSTに入りたての彼女は、研究計画をプレゼン。渡日資格は、これからなのですが、と藤井先生。都市緑化と気象という感じだった。潜在意識に、どこかで見聞きしたような、と。2回目の訪問2018年11月21日に研究進捗を受ける。いわゆる微気候を実測している話だったと記憶。2019年9月20日には受入承諾と来日手続きを彼女が開始。住まい（TIEC）が確定するまでフライトが確定できないという話を経て、2月13日発のフライトになったと、2月3日に連絡を受けている。かなりギリギリ。今となっては、コロナで封鎖される滑り込みセーフ。どこかで何かの手続きが遅れていたら、来日できなかったかも知れない。\n</p><p>2月22日の研究室7周年パーティーに無事に出席。メンバーとも親交を深め、2月26日にはAminとTIECから連れ立ってオフィスに。来日中の研究内容や卒業までのスケジュール、研究に必要なもの、などの話を。その時からArcGISとENVI-metというソフトウェアの希望が、心配そうに出された。彼女の研究には必要不可欠だったようなので、別予算をやりくりしてでも手当する、と。ソフトウェア確保は、保証を与えないと心配だったようだ。実際、帰国直前にも再度確約、実行。思えば、研究打合せでは、彼女は不安な面持ちが多かった。打合せで問題解決すると、いつも安心した表情を浮かべていた。\n</p><p>恐らくその時に、micro climateという単語を耳にして、閃いたのだと思う。彼女の内容は、淺輪先生の研究室に近いと。2019年12月のLyon派遣以来、研究室学生（島田）が建物熱環境に研究を拡大し、淺輪先生のご指導を頂いていたのが幸運。すみません、2人目ですが、と淺輪先生に相談、快諾を頂く。3月19日に彼女、淺輪先生、島田、私の4者で私のオフィスにて打合せ。この打合せを思い付き実行して良かった。オンラインでも出来たかも知れないが、初回は、私のEJUST訪問同様、同じ場所に居合わせ、意見交換して良かった。そうしたところで来校制限。彼女とオフィスで会ったのはこれが最後。\n</p><p>　滞在中コロナで大丈夫かと心配。パケットやOnline尽くめを気にしてzoom videoさえも憚られた。TIECにまとまって数名住んでいたのは、とても心強かった。TIECには彼女やYoussef、Lucie、研究室新人Linux、彼らの面倒をAminが一手に引き受けてくれていた。来日してさほど時期も経たないので、ムスリム食事は手に入っているか？と心配。ムスリム学生らは互助で乗り切っていた。Dropboxのファイルを通じての現況連絡、オンラインでのミーティング、メールでの論文執筆修正。エジプトでも同じかも知れないが、彼女がお台場（TIEC）に居るのだ、という場所の近さは、何かあったら対面でも議論できる、という安心感が違った。Youssef、Lucieには突然の帰国でタイミングを逸し、会えず仕舞い。せめてもの想いでエジプト帰国便直前に、Tahaniには一目合って別れの挨拶を。帰国しても変わらず、論文掲載に向けて交信。学位取得後に派遣元大学の先生として、彼女が活躍するのが楽しみ。\n</p><p><br></p>",
+          "text": "<p>エジプト日本科学技術大学の博士課程交換留学生として、時松先生研究室に9ヶ月間入社しました。研究室に加わり、時松教授の監修のもと、研究を発展させるだけでなく、将来的に指導教官として成功する方法を個人的に学んだことは幸運だったと思います。</p><p><br></p><p>\n</p><p>\n</p><p>私の研究分野は、時松先生の研究対象とは直接関係のない都市の緑地と都市部の熱的快適性に関するものですが、彼は私の滞在中、そして交換期間が終了した後も、いくつかの可能なサポートを提供してくれました。方法。第一に、他の研究室とは異なり、時松先生は研究室での研究の焦点とは直接関係がないにもかかわらず、私の選択したトピックに取り組む自由を与えてくれました。さらに、時松先生は、私の研究の直接の分野の教授である彼の同僚を私たちの会議に招待し、より経験豊富なフィードバックを求めました。また、時松先生は、技術や設備のサポートの面で、かなりの資金で奨学金を超えた場合でも、必要なソフトウェアで私の研究を惜しみなくサポートしてくれました。全体として、トキムタス先生は、研究者が最も必要としている最善の方法で研究が行われるように、あらゆる種類のサポートと支援を提供すると思います。しかし同時に、時松先生は、あなたが自分のトピックに関する知識とスキルを習得できる独立した研究者になることを奨励し、適切な時期に学術的支援を提供します。言い換えれば、研究室の環境はあなたがあなたの将来の研究キャリアに利益をもたらす成功した独立した研究者になることを奨励するでしょう。</p><p><br></p><p>\n</p><p> \n</p><p>研究室では、社会環境と支援はそれほど重要ではありませんでした。ラボには世界のさまざまな地域からの学生がいて、活気に満ちた興味深い環境になっています。また、時松教授は、研究知識の交換だけでなく、特に日本に到着した最初の期間に、日本への定住の段階を促進するための社会的支援（留学生向け）を奨励しています。さらに、Covid-19のパンデミックの間、時松先生からの絶え間ない支援と、ラボメンバーの心身の健康に関する情報の毎週の交換があり、すべてのメンバーがラボメンバーに安心感と安心感を与える問題がないことを確認しました。そのようなストレスの多い時期に私たちが働くのを助けた精神的安定。時松先生研究室にいらっしゃることを心から嬉しく思います。ポスドク研究のために日本を訪れる機会があれば、いつでもまた研究室に参加したいと思っています。時松先生の親切で絶え間ないサポートと、研究室の仲間であるアミン・ナザラハリさんの非常に親切なメンターに感謝します。&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -2544,7 +2544,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>エジプトからの留学生（E-JUSTプログラム）として、2019年9月から2020年7月までの10ヶ月以上、時松研究室に在籍しています。理学士と修士課程で形成された建築背景を持つ環境工学の博士課程の学生です。エジプトのタンタ大学で建築学の博士号を取得。博士号の研究では、エジプトのオフィスビルの高性能グレージングシステム（HPGS）の持続可能性を評価しています。時松教授は、建物のエネルギー、ライフサイクルアセスメント（LCA）、費用便益分析の分野で優れた経験を持っています。</p><p><br></p><p>\n</p><p>\n</p><p>時松研究室には、中国、タイ、韓国、マレーシア、インドネシア、イラン、サウジアラビア、エジプト、スウェーデン、そしてもちろん日本など、さまざまな国からの修士、博士、ポスドクの学生がいます。学際的な環境におけるこの文化的および科学的多様性は、私の経験を大いに高め、私の仕事を他の人と共有するのに役立ちました。すべてのラボメンバーはとても親切でフレンドリーです。日本での初日から、各留学生には、日本での生活で有名な時松研究室の同僚である家庭教師がいます。</p><p><br></p><p>\n</p><p>\n</p><p>時松教授は、定期的な会合や指導のための議論を通じて、学生たちが自由に研究できるように奨励しています。さらに、国内外の重要な会議に参加するための財政的支援。彼は、エネルギー、LCA、および費用便益の第1四半期のジャーナルに論文を発表した優れた経験があります。時松教授は、生徒の書いた作品を注意深く読み、各部分にコメントを付けて、修正を明確かつ簡単に行えるようにします。\n</p><p>\n</p><p>時松教授は、あらゆる行政手続きにおいて非常に役立ちます。管理上の問題を解決するための彼のいつもの迅速な対応と優れたコミュニケーションに本当に感謝しています。キャンパスでの研究が中断されたため、彼は学生と連絡を取り合い、研究作業の進捗状況を追跡するための優れたオンラインシステムを確立しました。定期的なセミナーは、ZOOMアプリケーションでオンラインで開催されました。個人的には時松先生はとてもフレンドリーで、安心して仕事をしてくれました。彼は人生の恋人であり、通常はユニークなレストランで彼の学生のためのパーティーを開催していますが、それに参加するにはお金を払う必要があります！</p><p><br></p><p>\n</p><p>\n</p><p>時松研究室では、学生が協力して家具の整理や未使用物の処分を行っています。今後の開発により、時松研究室はより多くのオフィスに広くなり、見晴らしが良く、快適な家具、新しいインテリアデザイン、ソフトウェア、PCなどの研究施設、そして来るべき学生のための測定ツールを備えています。不利な点の1つは、ラボのメンバー間で組織的なスポーツ活動や日本のユニークな場所への旅行がないことです。\n</p><p>\n</p><p>ときまつ教授は、研究室が東京の中心部から遠く離れていると考えているため、学生に毎日研究室への出席を強制することはありません。そのため、学生は東京の好きな場所にある宿泊施設を自由に選ぶことができます。また、ときまつ動物病院は、東京の中心部に近い大岡山キャンパスで、できれば時間を割いてくれます。</p><p><br></p><p>\n</p><p>\n</p><p>私は最近尊敬します、そして私は再び研究室に参加したいと思っています。時松教授と研究室の皆様のご多幸をお祈り申し上げます。</p><p><br></p><p><br></p><p><b>教員からのコメント：\n<span style=\"font-size: 1.07rem;\"></span></b></p><p><br></p><p><br></p><p>彼との最初の出会いは、私がEJUSTを初めて訪問した2018年3月20日。現地指導教員Mona先生およびENV学生らとのセミナー。見上げるような巨漢。柔道での対戦相手を思い出す。怖そうに見えるのは一瞬で、人懐っこい彼の表情に安堵する。指導担当予定の5名の学生のプレゼンを聞く。ライフサイクルアセスメントから、建築物や街区の環境・エネルギーまで幅広い。後になって研究室学生の研究内容が一部、彼らの分野に近づくとは、当時は思いもよらず。どこで何のご縁を頂くか、分からないものだ。\r</p><p>初回の訪問では、彼の質問を皮切りに、研究室にはどのようなソフトウェアが利用可能なのか、という話に発展。藤井学先生が、ソフトウェアはツールであって、それがあれば研究になる訳ではないと諭す。彼らが何故、ソフトウェアに高い関心を持つのか、当時は疑問。理解したのは、彼らが順次来日し、彼らとの研究進捗打合せや、執筆論文チェックを通じ、彼らの研究スタイルや進め方を知ってからだ。\r</p><p>2回目のEJUST訪問で、彼の研究進捗を受けた（2018年11月19日）。9ヶ月日本滞在の資格を満たす見込みまで達し、博士論文の構成案まで進めていた。彼の研究内容は、標準的なライフサイクルアセスメントで理解容易なもの。これなら十分面倒見れるかな、と。その訪問時に、研究室学生と事前交流を深めることを意図し、オンラインセミナー（当時は未だSkype）を開催。既に来日していたEJUST学生new Islamと、ADB入学のold Islam、中東出身のKhalidとAmin、日本人の島田。こうした事前交流は来日までの助走準備期間となって、来日への障壁を少しでも下げる効果があったようだ。\r</p><p>2019年9月1日に来日。一週間も経たないうちに、軽井沢でのワークショップへ。研究室メンバー4人の集合写真では、小柄な橋爪さんと、巨漢の彼の対比が印象的。カトリックの教えを中高時代に受けた彼女は、Youssefをヨーゼフと発音し、私をハッとさせた。\r</p><p>彼の滞在期間の約10ヶ月、学位論文提出と審査が予定される2020年夏頃に間に合わせるよう、査読付き論文を通すことと、それを踏まえた学位論文の作成に。今振り返れば、3ヶ月に1本の査読論文を通し、学位論文をまとめたので、前例がないほど濃密だった。結果的にそれが出来たものの、手法は精通していても対象がエジプトの建造物となると、他学生同様「通せる」ジャーナルが手持ちにある訳でなく、彼の能力と私の”勘と経験”での手探りだった。\r</p><p>対面での打合せでは当初、巨漢な彼は物静かに笑顔を浮かべながら、どうしたら良いのでしょう？という顔をする。私が思い付く限りのことを、色々と話をしてあげると、分かったような分からなかったような、顔の表情が半ば変わったのが、今でも蘇る。要するに、と、短くポイントを反復する。すると彼は私の意図を汲み、理解良く、1を言えば10近く反映した作業を返してくる。\r</p><p>1本目はLCAの内容。軽井沢から戻った2019年9月19日には、Environmental Developmentのrejectコメントを反映した上で、Journal of Building Engineeringに投稿。11月12日には再度reject。他に探してきたのがClean Technologies and Environmental Policy。first decision one monthに期待し11/29投稿。ところがこれが3回リバイスとなって、ver4を4/23に完成、翌日再投稿、最終アクセプト6月25日。\r</p><p>来日後の10月には2つ目のLCC論文作成に取り掛かっている。良く書けているがtechnical reportの書き方なので、academic journal writingに修正するよう、11月頭にコメント。投稿記録がないが、12月8日にConstruction Management and Economicsからreject。Economic journalは理論を述べた上で、そのempiricalな応用という書き方。工学スタイルは不適合ゆえ、どこか別を。翌12/9にはArchitectural engineering and Design Managementを候補として挙げる。12/10投稿。途中経過の記録はなく、最終アクセプト6月24日。\r</p><p>3本目はMCDA。既に2本論文を片付け、12月の家族受入前に極力執筆し、年明けには私に、と。異国の地で、家族の頼りはYoussefなので無理せずとも、と。2020年1月6日にfirst draft。2nd draftが一週間後。1/25投稿、3/26再投稿、最終アクセプト4月24日。結局、最後の3本目が最初にアクセプトされ、最初の1本目が最後に。\r</p><p>学位論文のfirst draftは2020年5月18日。最初にアクセプトされた3本目が終わり、1本目の「4度目の正直」の投稿をしてから編集作業に。コロナで先行き見えない帰国延期。突然7月19日のフライトが取れ、ご家族と無事に帰国。不安だったに違いない。公聴会2020年9月23日。無事終了。\r</p><p>プレゼンにもお国柄が。彼のプレゼンは公聴会スライドでも、ビジーで込み入った作り込んだものだった。これでは日本国政府の審議会のスライド形式の手元配布資料と同じだ、と話をした。ただ、お国柄があるのでプレゼンスライドについては、あまり言わなかった。\r</p><p>彼とは2年半。彼に限らず、Islam、Lucie、Marwa、別途記述するTahaniとのコミュニケーションは、正規課程学生ではなくとも、とても心に残る。EJUSTに2回事前に足を運んで、彼らとのコミュニケーションを持ち、信頼関係を作ったことは極めて大事だった。なお、彼ら彼女らは大学で助教レベルの職に就いた上で、学位取得のためにEJUSTに来ていた。かの地で、彼らが次世代を育てることに期待したい。\r</p><p><br></p>",
+          "text": "<p>エジプトからの留学生（E-JUSTプログラム）として、2019年9月から2020年7月までの10ヶ月以上、時松研究室に在籍しています。理学士と修士課程で形成された建築背景を持つ環境工学の博士課程の学生です。エジプトのタンタ大学で建築学の博士号を取得。博士号の研究では、エジプトのオフィスビルの高性能グレージングシステム（HPGS）の持続可能性を評価しています。時松教授は、建物のエネルギー、ライフサイクルアセスメント（LCA）、費用便益分析の分野で優れた経験を持っています。</p><p><br></p><p>\n</p><p>\n</p><p>時松研究室には、中国、タイ、韓国、マレーシア、インドネシア、イラン、サウジアラビア、エジプト、スウェーデン、そしてもちろん日本など、さまざまな国からの修士、博士、ポスドクの学生がいます。学際的な環境におけるこの文化的および科学的多様性は、私の経験を大いに高め、私の仕事を他の人と共有するのに役立ちました。すべてのラボメンバーはとても親切でフレンドリーです。日本での初日から、各留学生には、日本での生活で有名な時松研究室の同僚である家庭教師がいます。</p><p><br></p><p>\n</p><p>\n</p><p>時松教授は、定期的な会合や指導のための議論を通じて、学生たちが自由に研究できるように奨励しています。さらに、国内外の重要な会議に参加するための財政的支援。彼は、エネルギー、LCA、および費用便益の第1四半期のジャーナルに論文を発表した優れた経験があります。時松教授は、生徒の書いた作品を注意深く読み、各部分にコメントを付けて、修正を明確かつ簡単に行えるようにします。\n</p><p>\n</p><p>時松教授は、あらゆる行政手続きにおいて非常に役立ちます。管理上の問題を解決するための彼のいつもの迅速な対応と優れたコミュニケーションに本当に感謝しています。キャンパスでの研究が中断されたため、彼は学生と連絡を取り合い、研究作業の進捗状況を追跡するための優れたオンラインシステムを確立しました。定期的なセミナーは、ZOOMアプリケーションでオンラインで開催されました。個人的には時松先生はとてもフレンドリーで、安心して仕事をしてくれました。彼は人生の恋人であり、通常はユニークなレストランで彼の学生のためのパーティーを開催していますが、それに参加するにはお金を払う必要があります！</p><p><br></p><p>\n</p><p>\n</p><p>時松研究室では、学生が協力して家具の整理や未使用物の処分を行っています。今後の開発により、時松研究室はより多くのオフィスに広くなり、見晴らしが良く、快適な家具、新しいインテリアデザイン、ソフトウェア、PCなどの研究施設、そして来るべき学生のための測定ツールを備えています。不利な点の1つは、ラボのメンバー間で組織的なスポーツ活動や日本のユニークな場所への旅行がないことです。\n</p><p>\n</p><p>ときまつ教授は、研究室が東京の中心部から遠く離れていると考えているため、学生に毎日研究室への出席を強制することはありません。そのため、学生は東京の好きな場所にある宿泊施設を自由に選ぶことができます。また、ときまつ動物病院は、東京の中心部に近い大岡山キャンパスで、できれば時間を割いてくれます。</p><p><br></p><p>\n</p><p>\n</p><p>私は最近尊敬します、そして私は再び研究室に参加したいと思っています。時松教授と研究室の皆様のご多幸をお祈り申し上げます。</p>",
           "_tags": [
             "Theme"
           ],
@@ -2591,7 +2591,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>私にとって、この2。5年は私が予想していたよりもはるかに早く過ぎました。私は文部科学省の研究生として最初に入学し、6か月後に修士課程に入学しました。私の学士号は工学の分野ではなかったので、私は基準に追いつくのに非常に苦労しました。友達に1時間かかったタスクや課題は、私には1週間かかったかもしれません。必要な基本的な知識は、学士課程で教えられたからです。しかし、私には達成するという目標があり、そのために、私は自分の快適さを犠牲にして、自分の努力を最大化することをいとわなかった。</p><p><br></p><p>\n</p><p>このパスでは、私のラボメンバーが最高のサポートでした。優れた研究室メンバーを持ち、友情を築くことの重要性は、常に最大の相互利益につながることを実感しました。困難な作業に耐え、特定のリスクを回避する方法を学び、要件を満たしながらどのようなクラスを受講するかについて、ラボメンバーの経験から多くの恩恵を受けました。</p><p><br></p><p>\n</p><p>もちろん、時松先生の役割は私の成功にとって非常に重要でした。この成功の背後には、長時間、夜間および早朝の作業とディスカッションを伴う一連の多数の会議があります。私が今のところに至ったすべての助けに感謝しています。父親の姿からアドバイスを受けることはあなたの向上のためであると信じることが重要です。したがって、これらのアドバイスを受けることは、それが提供される方法に関係なく、あなたの長期的な利益のためである可能性が最も高いです。ですから、時松先生のご厚意とご厚意に感謝し、学問的にも社会的にも職業的にも育てていただきたいと思います。</p><p><br></p><p>\n</p><p>副次的なプログラムとして、東京工業大学の専門分野を超えたクラスやワークショップを提供する東京工業大学リーダーシップアカデミー（ToTAL）に入学し、学力と個人の能力を社会と結びつけるためのスキルの向上を目指しています。週末の多くは早朝から夜、平日の深夜まで過ごしましたが、さまざまなバックグラウンドや性格の学生とコミュニケーションをとることができ、とても嬉しく思います。このプログラムの最初の登録者。きっと博士課程でも続けていきます。</p><p><br></p><p>\n</p><p>他のプログラムと同じように、成功への道には多くの困難と困難があると私は信じています。特に、新しい学術環境を始めて慣れ、クラスに参加し、研究パスの決定を下し、論文や防衛を書くまでのすべての研究を行います。落ち込んだり、やる気がなくなったりする日がたくさんあります。単語が少ない非常に短いメールは、モチベーションを押しつぶしたり、モチベーションを即座に高めたりすることがあります。でも、卒業当日と学位取得後は、過ぎ去った前後の人の違いに気づき、努力する価値があったので、常にこの道を歩むことを忘れないでください。それ。&nbsp;</p><p><br></p><p><b>教員からのコメント：</b></p><p><br></p><p>他の学生とは異なり、Aminの場合は、後見人が様々にコンタクトを取ってのこと。過去のメールを遡ると2017年1月27日に高橋史武先生、3月13日に上司の吉川邦夫先生が、時松を後見人に紹介。他の研究室も訪問していたことからすると、私が指導教員候補の適任者とは、初期時点では彼には映らなかったようだ。3月24日に面談。その際、ブロンド髪の女性が研究室を探しているのかと、勘違い。世の中狭いもので、その後見人の方は私の前職と、仕事上お付き合いがあるとのこと。隠れているように後ろで控えている髭もじゃの彼が。研究室を探しているのは彼か、大丈夫か？研究室在籍の同郷Rezaさんにも個別に話をしてもらった。その後、二人と私で話。Rezaさんが控え目に、ポジティブな回答。彼を研究室に受け入れることに。イラン人は控え目だな、と改めて思った。\n</p><p>その後、8月3日に大使館推薦を得たが、本学の受入内諾証明の原本を、本人が受け取ってイランに帰国するまでの10日間に必要とのこと。郵送は不確実。提出期限に間に合わないとアウトなので、郵便は使わないとのこと。I am panicking.から始まるメールを彼へ。8月7月曜の夜しか時間を作れない。手続きと日程調整で、これほど過度な心的ストレスがあったのは、五指に入る。さらに大連に到着した10月26日には、ビザ更新のためにサインか押印が必要とのメール。在イラン日本大使館から、本学への入学許可を無事に得たとの連絡を受けたのは2018年1月14日。1年越し。\n</p><p>　2018年4月からの半年間の日本語特訓コースの履修を免除され、実質的に研究を開始。早3年前。Energy Poverty in Japanをやりたい、と彼。そんなのあるのか？と私。論文がある、筑波大・奥島先生のEnergy Policy論文を持ってきた。20年程もご無沙汰している奥島さんを、私の目の前に持ってくるとは。6月に彼と共に奥島先生を訪問。その頃から彼はEnergy Povertyにハマる。学生を対象にしたいと彼。日本では、学生をアンケート調査対象にした研究は論文になりにくい、と私。APUでは学生が電気代などの節約のために、図書館等大学構内やMcDonaldで一日の大半を過ごし、寝るだけに帰るのを目にした。これは正にEnergy Povertyの行動だ、と彼。半信半疑に、文献調査して探ってみたら、と私。交渉のタフさや、押しの強さ、とは異なる、彼の信念に近く、一歩も引かない議論は、とある国との交渉で彼の母国が決裂するのは無理もない、と。\n</p><p>2018年9月に入学し、エネルギーコース履修と同時にリーダーシップ教育院（ToTAL）もやりたいと。どうやら2倍の負担。リーダーシップを生まれ持って備えている彼のプラスになる？と思いつつ承諾。いざコースとToTALが始まると、相当負担だったようだ。コース履修だけでも普通は半年近く潰れるところ、最初1年が過ぎたように記憶。経営学を卒業した彼には、理工系エネルギーの基礎知識はないため独学。研究室メンバーには、機械、電気、化学と揃っているから基礎知識は彼らにも聞いて、と。\n</p><p>そうした中でも、彼なりに時間を作って文献調査し、時折報告してくれる。文献を読むと脳内に色々とアイディアが渦巻くようで、流暢な英語でマシンガンのように私の脳内に容赦なく打ち込む。まるで国連総会での演説を聞いているかのようだ。10分ほど聞いていると私の頭が飽和する。この歳になると、話の初めは何だったっけ？と。で、どうする？と尋ねると、あれもやりたい、これもやりたい、こんなことが出来ないだろうか、次に読まねばならない文献があるので次回報告する、と。1言うと10返ってくる。修士修了1年前の時点では、まだ壮大な構想と、その改定の繰り返し。博士論文5本分に相当する、学位取得してからライフワークほどの分量だ、博士論文であっても、もっとコンパクトにダウンサイジングし、修論だとさらにカットダウンしなければ、と話す。彼は苦笑していた。\n</p><p>2019年10月末には、国内学会で旧知の神戸大・田畑先生を訪問。2月に特定課題研究を終わらせる古市さんのスケジュールから、11月にはアンケート調査の準備を実行に。その後の海外渡航（留学生はビザがいつも特に深刻なネックになる）の準備ともども、しばらく過酷な日々を過ごす。12月にはRWTH AachenのReinhard Madlenerのグループに一週間派遣。同年5月に私が訪問した際のカウンターパートが国際学会で一緒だったReinhardで、お互い奇遇を驚く。その後、テーマとしてたまたまReinhardからEnergy Povertyが挙がったので、Aminと奇跡的な幸運を喜ぶ。派遣の際、たまたまReinhardのグループにEnergy Povertyに詳しい研究者がおり、研究構想を多数議論、実りの大きい派遣。彼ほどの学生を海外派遣する機会を作れずにいたことを懸念していたが、その後のアブダビ含めて派遣が出来、少し安堵。\n</p><p>派遣直前にアンケート調査票を配布したのだから、RWTHでも派遣中にプレテストしたら？と。結局行わず終い。私は折角なのに勿体ない、と。彼には彼のスタイルが既にあって、私とはだいぶん、考え方や進め方が違うんだな、と少しずつ理解。アンケート調査のデータ入力、ローデータの整備、分析など、実作業報告を受けると、研究構想談義では話が壮大なのに、着手は狭く手堅く緻密に行う。着眼大局・着手小局の仕事スタイル、とまた発見。分析し出すと、これまた、アレコレと発見があり、構想が際限なく膨らむ。そうした彼に、修論ではポイントを2,3に絞って、先にプレゼンを作ってくれと。修論は、それに喋る言葉を文章にして肉付けしてくれれば、と。残された半年で、何とか間に合わせた。\n</p><p>彼と何度となく研究構想談義をしているうちに、話の壮大な点が、彼は（かつての）私に似ている、と気づく。他の卒業生にも書いたが、学生さんとは、どこかに類似点がある。恩師の一人から「早く手を動かして作業してはどうか」「研究には割り切りが必要」とご指導を頂いた当時、情熱溢れる想像豊かで色々な思いを…と相当に悩んだ。彼も同じように悩んだかも知れないと、この歳になって気づく。幸い、彼との会話は比較的初期の頃から、半分笑いながらの冗談と談笑になる。何度となく研究談義を重ねるうちに、気宇壮大で頭でっかち、渦巻く様々なアイディアを頭の中に温存するように、と。そこからピースを取り出して、如何にパズルのように査読付き論文と、学位論文を組み上げてゆくか、という議論に。2年半後、彼がどう学位論文をまとめるか、お楽しみに。\n</p><p>日本に長く住み、彼の社交的性格から、多くのチューターを依頼。彼のサポートに皆感謝して帰国。本当に助かった。サウジ出身のKhalidさんと不仲は無いか？と二人を前に話した際に、国では日韓のようにゴタゴタしていますが、学生同士は仲良いんですよ、とKhalid。博論完成に至るまでのbitterな経験をAminに伝えたか？とKhalidに尋ねると、sweetな話ばかりと、いつもは真面目で好青年な顔して私と話すこの2人の若者の顔が、突然いたずらっ子の表情に。将来自分らが出世したら、サウジとイランのイザコザを終焉させようと喋っている、と頼もしいこと言うAmin。何とも嬉しい話。研究室で知り合った二人が、将来母国のリーダーになって、平和への礎になるというのですから。そうした研究室メンバーのために、次のリーダーを選出して彼らの仲間を増やさねばと思う。\n</p><p><br></p>",
+          "text": "<p>私にとって、この2。5年は私が予想していたよりもはるかに早く過ぎました。私は文部科学省の研究生として最初に入学し、6か月後に修士課程に入学しました。私の学士号は工学の分野ではなかったので、私は基準に追いつくのに非常に苦労しました。友達に1時間かかったタスクや課題は、私には1週間かかったかもしれません。必要な基本的な知識は、学士課程で教えられたからです。しかし、私には達成するという目標があり、そのために、私は自分の快適さを犠牲にして、自分の努力を最大化することをいとわなかった。</p><p><br></p><p>\n</p><p>このパスでは、私のラボメンバーが最高のサポートでした。優れた研究室メンバーを持ち、友情を築くことの重要性は、常に最大の相互利益につながることを実感しました。困難な作業に耐え、特定のリスクを回避する方法を学び、要件を満たしながらどのようなクラスを受講するかについて、ラボメンバーの経験から多くの恩恵を受けました。</p><p><br></p><p>\n</p><p>もちろん、時松先生の役割は私の成功にとって非常に重要でした。この成功の背後には、長時間、夜間および早朝の作業とディスカッションを伴う一連の多数の会議があります。私が今のところに至ったすべての助けに感謝しています。父親の姿からアドバイスを受けることはあなたの向上のためであると信じることが重要です。したがって、これらのアドバイスを受けることは、それが提供される方法に関係なく、あなたの長期的な利益のためである可能性が最も高いです。ですから、時松先生のご厚意とご厚意に感謝し、学問的にも社会的にも職業的にも育てていただきたいと思います。</p><p><br></p><p>\n</p><p>副次的なプログラムとして、東京工業大学の専門分野を超えたクラスやワークショップを提供する東京工業大学リーダーシップアカデミー（ToTAL）に入学し、学力と個人の能力を社会と結びつけるためのスキルの向上を目指しています。週末の多くは早朝から夜、平日の深夜まで過ごしましたが、さまざまなバックグラウンドや性格の学生とコミュニケーションをとることができ、とても嬉しく思います。このプログラムの最初の登録者。きっと博士課程でも続けていきます。</p><p><br></p><p>\n</p><p>他のプログラムと同じように、成功への道には多くの困難と困難があると私は信じています。特に、新しい学術環境を始めて慣れ、クラスに参加し、研究パスの決定を下し、論文や防衛を書くまでのすべての研究を行います。落ち込んだり、やる気がなくなったりする日がたくさんあります。単語が少ない非常に短いメールは、モチベーションを押しつぶしたり、モチベーションを即座に高めたりすることがあります。でも、卒業当日と学位取得後は、過ぎ去った前後の人の違いに気づき、努力する価値があったので、常にこの道を歩むことを忘れないでください。それ。&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -2651,7 +2651,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Page 6",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -3784,7 +3784,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/105-1050421-blank-avatar-female-png-transparent-png-267x280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pa1pptww-400x400-400x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3815,12 +3815,12 @@
           "title2": "Arif Darmawan",
           "subtitle2": "(Doctoral Student)",
           "caption2": "Energy process modeling, biomass conversion",
-          "title3": "you can be the next!",
+          "title3": "Aulia Shabrina",
           "subtitle3": "-",
           "caption3": "click link below for those who want to be the next tokyotech lab member!\n<br>(link to apply international program)",
-          "title4": "you can be the next!",
-          "subtitle4": "-",
-          "caption4": "click link below for those who want to be the next tokyotech lab member!\n<br>(link to apply international program)",
+          "title4": "Rivaldi Madyatama",
+          "subtitle4": "",
+          "caption4": "Life Cycle Assessment of Waste Management System in Jakarta&nbsp;&nbsp;",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -3838,6 +3838,113 @@
           ],
           "_name": "features1",
           "_anchor": "features1-94",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Linux Farungsang",
+          "subtitle1": "-",
+          "caption1": "Assessment of Rooftop Solar Photovoltaic Potential\nbased on Machine Learning and GIS Spatial Analysis\nin Bangkok, Thailand&nbsp;<br>",
+          "title2": "Mako",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "You Can Be The Next!",
+          "subtitle3": "-",
+          "caption3": "NEXT ALUMNI",
+          "title4": "You Can Be The Next",
+          "subtitle4": "-",
+          "caption4": "NEXT ALUMNI",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-9y",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
@@ -4890,6 +4997,53 @@
           ],
           "_name": "content1",
           "_anchor": "content1-9h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "RIVALDI MADYATAMA",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "-",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-a0"
         }
       ]
     },
@@ -6713,7 +6867,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Page 14",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -7073,7 +7227,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (arabic)",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -7828,7 +7982,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Alumnus (Persian)",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -9242,7 +9396,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><b>Current Student 2021\n</b></p><p><br></p><p><b>Doctoral Student:\n</b></p><p><br></p><p>Name: Yutaro Shimada\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">Title of research: Economic and environmental assessment of ground source heat pump in Bangkok, Thailand&nbsp;</span></p><p>\n</p><p>Name: Amin Nazarahari\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Iran&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Energy poverty in developed countries - case of Japan while assessing the role of consumption attitudes and behaviors&nbsp;</span></p><p><br></p><p><b><i>Master's Student:</i></b></p><p><b><i><br></i></b>\n</p><p>\n</p><p>Name: Rivaldi Madyatama\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Indonesia&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Life Cycle Assessment of Proper Waste Management in Jakarta, Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"></span><br></p><p>Name: Aulia Shabrina\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Indonesia&nbsp;&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Techno-Economic Assessment on Bioethanol Plant from Oil Palm Frond in Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p>Name: Linux Farungsang\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Thailand&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Assessment of Rooftop Solar Photovoltaic Potential based on Machine Learning and GIS Spatial Analysis in Bangkok, Thailand&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p>Name: Mako Mizuno\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Study of cooling systems by snow storage in Niigata, Japan: lifecycle basis analysis&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p><b>Bachelor Student:</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p>\n<span style=\"font-size: 1.07rem;\">Name: Rino Hirose&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: TBA&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p>Name: Saksucha Submakudom\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Thailand&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: TBA&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p><i><b>Research Visitor:</b></i></p><p><i><b><br></b></i></p><p><i><b>\n</b></i></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p>Name: Khalid Alrashoud\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Saudi Arabia&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Status: Visiting Fellow&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Transfer of Environmentally Sound Technologies (ESTs) to Saudi Arabi&nbsp;</span></p><p>\n</p><p>\n</p><p><br></p>",
+          "text": "<p><br></p><p><b>Current Student 2021\n</b></p><p><br></p><p><b>Doctoral Student:\n</b></p><p><br></p><p>Name: Yutaro Shimada\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">Title of research: Economic and environmental assessment of ground source heat pump in Bangkok, Thailand&nbsp;</span></p><p>\n</p><p>Name: Amin Nazarahari\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Iran&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Energy poverty in developed countries - case of Japan while assessing the role of consumption attitudes and behaviors&nbsp;</span></p><p><br></p><p><b><i>Master's Student:</i></b></p><p><b><i><br></i></b>\n</p><p>\n</p><p>Name: Rivaldi Madyatama\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Indonesia&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Life Cycle Assessment of Proper Waste Management in Jakarta, Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"></span><br></p><p>Name: Aulia Shabrina\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Indonesia&nbsp;&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Techno-Economic Assessment on Bioethanol Plant from Oil Palm Frond in Indonesia&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p>Name: Linux Farungsang\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Thailand&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Assessment of Rooftop Solar Photovoltaic Potential based on Machine Learning and GIS Spatial Analysis in Bangkok, Thailand&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p>Name: Mako Mizuno\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Study of cooling systems by snow storage in Niigata, Japan: lifecycle basis analysis&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Name: Saksucha Submakudom\r</span></p><p><span style=\"font-size: 1.07rem;\">Country: Thailand \r</span></p><p><span style=\"font-size: 1.07rem;\">Title of research: TBA</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p><b>Bachelor Student:</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p>\n<span style=\"font-size: 1.07rem;\">Name: Rino Hirose&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Country: Japan&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: TBA&nbsp;</span></p><p><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p><i><b>Research Visitor:</b></i></p><p><i><b><br></b></i></p><p><i><b>\n</b></i></p><p>\n<span style=\"font-size: 1.07rem;\"></span></p><p>Name: Khalid Alrashoud\n</p><p>\n<span style=\"font-size: 1.07rem;\">Country: Saudi Arabia&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Status: Visiting Fellow&nbsp;</span></p><p>\n<span style=\"font-size: 1.07rem;\">Title of research: Transfer of Environmentally Sound Technologies (ESTs) to Saudi Arabi&nbsp;</span></p><p>\n</p><p>\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -9916,7 +10070,7 @@
           },
           "title": "TOKIMATSU <br>LABORATORY",
           "text": "<br>Dept. Transdisciplinary Science and Engineering<br><br>TOKYO INSTITUTE OF TECHNOLOGY<br>Suzukakedai Campus\n<br> 〒226-0026　G5-10, 4259, Nagatsutacho, Midori, Yokohama, Kanagawa, Japan&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-8\" data-toolbar=\"-mbrBtnMove\">หัวหน้าอาจารย์ในสาขาวิชา</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">งานวิจัย</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">สมาชิก</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page2.html#msg-box8-70\" data-toolbar=\"-mbrBtnMove\">กิจกรรม</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">สิ่งพิมพ์เผยแพร่</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page8.html#features1-1o\" data-toolbar=\"-mbrBtnMove\">ศิษย์เก่า</a>      ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header2-8\" data-toolbar=\"-mbrBtnMove\">หัวหน้าอาจารย์ในสาขาวิชา</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">งานวิจัย</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">สมาชิก</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page2.html#msg-box8-70\" data-toolbar=\"-mbrBtnMove\">กิจกรรม</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">สิ่งพิมพ์เผยแพร่</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page22.html\" data-toolbar=\"-mbrBtnMove\">ศิษย์เก่า</a>      ",
           "_tags": [
             "Theme"
           ],
@@ -10170,6 +10324,102 @@
             }
           },
           "_anchor": "content2-9o"
+        }
+      ]
+    },
+    "page22.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Alumnus (Thai)",
+        "order": 17
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">JAPANESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page11.html\">CHINESE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page10.html\">ARABIC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page9.html\">INDONESIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page12.html\">PERSIAN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page21.html\">THAI</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/as-2674582906183831440778433825-l-129x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">東京工業大学</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-a2"
         }
       ]
     }
