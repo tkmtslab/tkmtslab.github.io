@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_2219-clone",
-    "currentPage": "page21.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 363,
+    "uniqCompNum": 370,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -207,10 +207,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2019-1400x1050.png",
+              "src": "@PROJECT_PATH@/assets/images/2019-1-1400x1050.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -312,6 +313,58 @@
               "font-size": "16px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/image-6483441-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WE ARE MORE THAN A LAB MEMBERS.<br>WE ARE FAMILY.",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CURRENT LAB MEMBER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-a8"
         },
         {
           "_params": {
@@ -3773,7 +3826,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/105-1050421-blank-avatar-female-png-transparent-png-267x280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aulia-shabrina-200x260.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3829,8 +3882,8 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page8.html#msg-box8-9a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Testimonials</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page8.html#msg-box8-9g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Testimonials</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.titech.ac.jp/english/graduate_school/international/international_graduate/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.titech.ac.jp/english/graduate_school/international/international_graduate/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.titech.ac.jp/english/graduate_school/international/international_graduate/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Testimonials</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.titech.ac.jp/english/graduate_school/international/international_graduate/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Testimonials</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -3920,8 +3973,8 @@
           "subtitle1": "-",
           "caption1": "Assessment of Rooftop Solar Photovoltaic Potential\nbased on Machine Learning and GIS Spatial Analysis\nin Bangkok, Thailand&nbsp;<br>",
           "title2": "Mako",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "-",
+          "caption2": "--",
           "title3": "You Can Be The Next!",
           "subtitle3": "-",
           "caption3": "NEXT ALUMNI",
@@ -3937,7 +3990,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -4991,7 +5044,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "Joining this lab is one of my important experience in my life. It has changed my way of thinking, social interactions, level of confidence and there have been lots of improvements. I have spent 5 years in Tokimatsu lab during both my master and doctoral degree since 2015. I arrived in Japan in April 2015 at Narita Airport from Bali Indonesia. Everyone (Indonesian and Japanese) was very helpful at that moment, they taught me how to proceed administration procedures (in campus, dorm, city hall), how to find good food, and everything about Japan life. That made me much easier during my first year of study in TokyoTech. Here I learn important point that we should help and support each other in any occasion.\r<div>\r</div><div>Second things, I am so lucky to become a member of this lab under Tokimatsu Sensei supervision. I would like to thank him, for giving me guidance, support and advice on my research and always caring about my progress so that I would not be left behind. Tokimatsu Sensei gave me a lot of opportunities in this lab to develop. He always gives the lab members freedom and trust to collaborate with other researchers and determine our research directions. I also had opportunity to collaborate with Aziz Sensei from University of Tokyo as second supervisor. \r</div><div>\r</div><div>It is important to us to have responsibility and strong intention of research. Tokimatsu Sensei will help us to achieve our target. He also gave me opportunity to attend many conferences and meet many researchers in our fields during my study. I travelled abroad to many countries in Asia and Europe during my study in this lab. It was important experiences to increase my confidence and skills about how I communicate my research with others.\r</div><div>\r</div><div>Last but not least, in my opinion, it is important that our lab have a strong point or specialty. It will affect to our research direction and including what kind of assets we should have including budget allocation (e.g. PC with strong statistical analysis software, energy modelling.) It will also make other researchers easily find our expertise to further collaboration. With this strong identity, I believe this lab can have good expansion and rapid development.\r</div><div><br></div>",
+          "text": "Joining this lab is one of my important experience in my life. It has changed my way of thinking, social interactions, level of confidence and there have been lots of improvements. I have spent 5 years in Tokimatsu lab during both my master and doctoral degree since 2015. I arrived in Japan in April 2015 at Narita Airport from Bali Indonesia. Everyone (Indonesian and Japanese) was very helpful at that moment, they taught me how to proceed administration procedures (in campus, dorm, city hall), how to find good food, and everything about Japan life. That made me much easier during my first year of study in TokyoTech. Here I learn important point that we should help and support each other in any occasion.\n<div>\n</div><div>Second things, I am so lucky to become a member of this lab under Tokimatsu Sensei supervision. I would like to thank him, for giving me guidance, support and advice on my research and always caring about my progress so that I would not be left behind. Tokimatsu Sensei gave me a lot of opportunities in this lab to develop. He always gives the lab members freedom and trust to collaborate with other researchers and determine our research directions. I also had opportunity to collaborate with Aziz Sensei from University of Tokyo as second supervisor. \n</div><div>\n</div><div>It is important to us to have responsibility and strong intention of research. Tokimatsu Sensei will help us to achieve our target. He also gave me opportunity to attend many conferences and meet many researchers in our fields during my study. I travelled abroad to many countries in Asia and Europe during my study in this lab. It was important experiences to increase my confidence and skills about how I communicate my research with others.\n</div><div>\n</div><div>Last but not least, in my opinion, it is important that our lab have a strong point or specialty. It will affect to our research direction and including what kind of assets we should have including budget allocation (e.g. PC with strong statistical analysis software, energy modelling.) It will also make other researchers easily find our expertise to further collaboration. With this strong identity, I believe this lab can have good expansion and rapid development.\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -5038,12 +5091,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "-",
+          "text": "<p>During my studies and research at Tokyo Tech, especially at Tokimatsu Lab, there were many things that made me develop personally, both in terms of academics and personality and way of thinking. Tokimatsu Sensei always provided the best guidance for me and was able to increase my learning motivation to be more active and always enthusiastic about my 2 year study period pursuing master's degree.&nbsp;<span style=\"font-size: 1.07rem;\">Tokimatsu Sensei is a passionate lecturer, even though I'm often wrong. Sensei was always there to guide me, pointing out what was right and wrong.&nbsp;</span><span style=\"font-size: 1.07rem;\">Tokimatsu sensei and my colleagues in the lab always help and guide each other, in this lab we feel happy. Sensei always guide my thesis clearly and easy to understand. So we have learned a lot from Tokimatsu Sensei.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">The most significant difference from the research system at Tokimatsu Lab is that each student can set their own research and study patterns, but they must be responsible for their choices as long as they are still in the research field of Tokimatsu sensei.&nbsp;</span><span style=\"font-size: 1.07rem;\">The most important positive value that I got while studying and researching at Tokimatsu Lab is, of course, independence and a sense of responsibility. It became a quality of self that I don't think I would be able to get anywhere else.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Being a master's degree student in the environmental and society department, especially at the Tokimatsu Lab, I gained my environmental analysis skills and became more aware of the deeper knowledge of the role of waste management. I also understand about the role and function of each pillar of sustainability as well as life cycle assessment of waste management in several countries. Hopefully the knowledge that I get can be an advantage for my country, Indonesia.</span></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-a0"
+          "_anchor": "content1-a9"
         }
       ]
     },
